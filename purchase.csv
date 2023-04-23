@@ -1,0 +1,4402 @@
+ClassID,StudentID,Evaluation_score,Student_voting_rate,State
+92,171,None,None,Paid
+79,68,None,None,Paid
+96,127,8,3,Paid
+65,192,7,4,Not paid
+70,121,None,None,Not paid
+22,12,None,None,Not paid
+63,169,10,2,Paid
+21,85,8,3,Not paid
+8,134,7,2,Not paid
+27,137,None,None,Paid
+22,149,None,None,Not paid
+65,125,10,2,Paid
+10,135,None,None,Paid
+96,197,8,4,Paid
+85,98,6,4,Not paid
+96,124,10,2,Paid
+38,152,None,None,Not paid
+4,114,None,None,Not paid
+32,153,None,None,Paid
+80,197,None,None,Not paid
+12,50,None,None,Not paid
+50,141,None,None,Paid
+23,50,None,None,Paid
+60,192,5,4,Paid
+40,0,None,None,Paid
+56,148,None,None,Paid
+89,44,None,None,Not paid
+18,183,None,None,Not paid
+0,69,None,None,Paid
+22,111,None,None,Not paid
+74,66,None,None,Not paid
+79,19,None,None,Not paid
+69,169,None,None,Paid
+86,37,9,3,Paid
+79,7,None,None,Not paid
+83,57,None,None,Paid
+4,62,None,None,Not paid
+55,149,None,None,Paid
+66,123,8,4,Not paid
+67,96,None,None,Not paid
+5,187,None,None,Not paid
+64,153,None,None,Paid
+60,97,7,4,Paid
+17,149,None,None,Not paid
+89,76,None,None,Paid
+47,2,None,None,Paid
+14,152,None,None,Paid
+68,92,None,None,Paid
+60,189,5,1,Paid
+31,111,None,None,Not paid
+31,133,None,None,Paid
+94,44,None,None,Paid
+17,64,None,None,Not paid
+52,55,None,None,Not paid
+50,12,None,None,Not paid
+51,70,None,None,Paid
+57,114,None,None,Paid
+60,194,6,4,Not paid
+4,159,None,None,Not paid
+69,11,None,None,Paid
+13,54,None,None,Not paid
+53,175,None,None,Not paid
+67,55,None,None,Not paid
+90,193,None,None,Not paid
+10,6,None,None,Paid
+28,54,None,None,Not paid
+7,86,8,2,Paid
+8,127,6,4,Paid
+46,138,None,None,Not paid
+62,162,None,None,Paid
+85,39,9,1,Not paid
+39,70,None,None,Paid
+89,7,None,None,Paid
+61,158,None,None,Not paid
+27,182,None,None,Not paid
+48,135,None,None,Not paid
+0,171,None,None,Not paid
+68,54,None,None,Not paid
+61,145,None,None,Paid
+71,153,None,None,Paid
+19,100,10,4,Paid
+30,84,None,None,Not paid
+27,122,None,None,Paid
+48,11,None,None,Not paid
+66,164,8,3,Paid
+32,98,None,None,Paid
+58,153,9,2,Not paid
+66,126,10,5,Paid
+98,103,5,4,Paid
+58,91,8,1,Not paid
+39,195,None,None,Not paid
+80,99,None,None,Paid
+19,114,6,2,Paid
+69,186,None,None,Not paid
+97,132,None,None,Not paid
+71,138,None,None,Not paid
+96,29,10,2,Not paid
+19,58,6,5,Paid
+94,22,None,None,Paid
+75,165,None,None,Paid
+37,124,5,4,Paid
+7,199,6,3,Not paid
+54,50,None,None,Paid
+41,75,9,1,Paid
+66,67,5,4,Paid
+79,168,None,None,Paid
+19,145,8,1,Paid
+23,195,None,None,Not paid
+90,88,None,None,Not paid
+5,122,None,None,Not paid
+19,193,5,3,Paid
+99,108,None,None,Not paid
+39,131,None,None,Paid
+17,92,None,None,Not paid
+27,168,None,None,Paid
+0,166,None,None,Paid
+50,192,None,None,Paid
+19,76,7,1,Not paid
+23,192,None,None,Paid
+2,101,None,None,Paid
+36,101,None,None,Paid
+20,47,None,None,Not paid
+12,6,None,None,Paid
+53,161,None,None,Paid
+19,185,5,5,Not paid
+32,86,None,None,Paid
+9,104,None,None,Paid
+87,111,None,None,Not paid
+1,189,None,None,Paid
+13,184,None,None,Not paid
+39,133,None,None,Not paid
+54,27,None,None,Paid
+99,34,None,None,Paid
+47,179,None,None,Paid
+11,3,10,3,Not paid
+83,171,None,None,Paid
+76,138,None,None,Not paid
+4,18,None,None,Paid
+11,112,6,4,Paid
+66,25,7,5,Paid
+99,16,None,None,Not paid
+84,115,None,None,Paid
+3,194,None,None,Paid
+1,185,None,None,Not paid
+78,60,None,None,Paid
+37,74,5,3,Paid
+99,6,None,None,Not paid
+38,189,None,None,Paid
+66,42,8,5,Paid
+27,74,None,None,Paid
+24,71,None,None,Not paid
+42,161,None,None,Not paid
+52,76,None,None,Paid
+40,134,None,None,Not paid
+28,97,None,None,Paid
+19,61,10,3,Paid
+50,123,None,None,Paid
+54,181,None,None,Paid
+29,168,None,None,Paid
+27,196,None,None,Paid
+90,165,None,None,Paid
+77,166,None,None,Paid
+86,101,7,1,Paid
+69,14,None,None,Paid
+92,6,None,None,Paid
+91,26,None,None,Paid
+14,186,None,None,Paid
+97,116,None,None,Not paid
+10,196,None,None,Not paid
+24,118,None,None,Not paid
+33,23,None,None,Paid
+12,150,None,None,Paid
+64,11,None,None,Paid
+26,2,None,None,Not paid
+18,12,None,None,Paid
+7,174,9,3,Not paid
+31,120,None,None,Paid
+20,12,None,None,Paid
+83,43,None,None,Paid
+83,29,None,None,Paid
+71,71,None,None,Paid
+88,103,None,None,Not paid
+42,73,None,None,Paid
+66,165,10,3,Paid
+56,33,None,None,Not paid
+36,83,None,None,Paid
+6,3,7,3,Paid
+85,95,6,4,Not paid
+78,43,None,None,Not paid
+9,50,None,None,Not paid
+30,180,None,None,Paid
+37,146,6,2,Paid
+53,176,None,None,Not paid
+33,19,None,None,Paid
+55,148,None,None,Not paid
+65,28,5,3,Paid
+96,95,6,1,Not paid
+10,24,None,None,Paid
+94,146,None,None,Not paid
+51,44,None,None,Not paid
+87,198,None,None,Not paid
+87,124,None,None,Not paid
+18,72,None,None,Paid
+56,50,None,None,Paid
+92,111,None,None,Paid
+29,159,None,None,Not paid
+61,34,None,None,Paid
+75,146,None,None,Paid
+14,157,None,None,Not paid
+14,83,None,None,Paid
+95,30,None,None,Not paid
+58,7,7,4,Not paid
+13,157,None,None,Not paid
+75,40,None,None,Paid
+68,86,None,None,Paid
+8,89,9,2,Paid
+20,55,None,None,Not paid
+32,57,None,None,Paid
+99,12,None,None,Not paid
+78,78,None,None,Paid
+10,42,None,None,Paid
+88,117,None,None,Paid
+27,145,None,None,Not paid
+77,173,None,None,Paid
+2,146,None,None,Not paid
+21,184,9,2,Paid
+91,39,None,None,Paid
+54,135,None,None,Not paid
+7,116,8,4,Not paid
+76,85,None,None,Not paid
+81,112,None,None,Paid
+51,178,None,None,Paid
+70,194,None,None,Not paid
+0,84,None,None,Not paid
+14,40,None,None,Not paid
+89,160,None,None,Not paid
+58,100,8,1,Paid
+30,79,None,None,Not paid
+55,17,None,None,Paid
+15,57,None,None,Paid
+22,98,None,None,Not paid
+23,28,None,None,Not paid
+37,43,8,3,Not paid
+89,109,None,None,Not paid
+4,27,None,None,Paid
+65,139,9,1,Not paid
+38,111,None,None,Not paid
+18,156,None,None,Paid
+20,53,None,None,Not paid
+70,161,None,None,Not paid
+35,92,None,None,Not paid
+99,68,None,None,Paid
+40,56,None,None,Not paid
+67,163,None,None,Paid
+93,188,None,None,Not paid
+44,144,None,None,Paid
+50,104,None,None,Paid
+55,50,None,None,Paid
+37,145,9,5,Not paid
+1,87,None,None,Not paid
+50,100,None,None,Not paid
+89,67,None,None,Paid
+41,198,8,4,Paid
+11,101,7,4,Paid
+91,38,None,None,Not paid
+45,197,None,None,Not paid
+17,76,None,None,Not paid
+19,78,10,3,Not paid
+89,0,None,None,Paid
+6,4,8,5,Paid
+77,91,None,None,Paid
+21,57,10,4,Not paid
+19,68,6,2,Paid
+53,59,None,None,Not paid
+44,104,None,None,Not paid
+75,73,None,None,Paid
+53,21,None,None,Paid
+17,99,None,None,Not paid
+30,73,None,None,Not paid
+8,22,9,1,Not paid
+51,69,None,None,Paid
+38,83,None,None,Not paid
+82,5,None,None,Not paid
+81,65,None,None,Paid
+66,76,6,4,Paid
+94,3,None,None,Not paid
+75,33,None,None,Paid
+12,2,None,None,Paid
+59,3,None,None,Paid
+41,49,5,2,Not paid
+40,165,None,None,Paid
+99,7,None,None,Paid
+54,164,None,None,Not paid
+67,53,None,None,Paid
+53,123,None,None,Not paid
+61,135,None,None,Not paid
+84,196,None,None,Not paid
+52,114,None,None,Not paid
+1,111,None,None,Not paid
+98,70,10,2,Not paid
+40,63,None,None,Paid
+57,181,None,None,Paid
+70,100,None,None,Paid
+37,175,8,2,Not paid
+61,90,None,None,Not paid
+12,191,None,None,Paid
+28,40,None,None,Paid
+74,173,None,None,Paid
+5,83,None,None,Paid
+89,112,None,None,Not paid
+32,185,None,None,Paid
+9,112,None,None,Paid
+60,105,6,2,Paid
+36,118,None,None,Paid
+79,113,None,None,Not paid
+39,20,None,None,Paid
+18,196,None,None,Paid
+90,75,None,None,Not paid
+28,168,None,None,Not paid
+19,33,6,3,Not paid
+79,130,None,None,Paid
+67,118,None,None,Not paid
+84,165,None,None,Paid
+33,147,None,None,Not paid
+69,31,None,None,Not paid
+94,0,None,None,Not paid
+40,49,None,None,Not paid
+99,182,None,None,Not paid
+58,60,5,5,Not paid
+11,5,8,2,Not paid
+89,13,None,None,Paid
+73,29,None,None,Not paid
+88,104,None,None,Not paid
+54,90,None,None,Paid
+83,8,None,None,Not paid
+46,79,None,None,Not paid
+94,59,None,None,Paid
+9,137,None,None,Paid
+0,154,None,None,Paid
+2,8,None,None,Not paid
+52,179,None,None,Not paid
+48,142,None,None,Paid
+54,76,None,None,Not paid
+48,132,None,None,Not paid
+48,43,None,None,Not paid
+28,88,None,None,Paid
+36,19,None,None,Paid
+74,95,None,None,Paid
+97,57,None,None,Paid
+25,154,None,None,Paid
+15,84,None,None,Not paid
+22,62,None,None,Paid
+29,174,None,None,Not paid
+94,194,None,None,Paid
+50,108,None,None,Paid
+4,34,None,None,Paid
+10,149,None,None,Paid
+2,75,None,None,Not paid
+83,59,None,None,Not paid
+16,162,None,None,Paid
+5,14,None,None,Paid
+9,186,None,None,Paid
+4,43,None,None,Not paid
+4,25,None,None,Not paid
+40,93,None,None,Not paid
+7,90,10,2,Not paid
+25,90,None,None,Paid
+3,144,None,None,Not paid
+46,159,None,None,Paid
+43,119,None,None,Paid
+51,114,None,None,Not paid
+99,106,None,None,Paid
+76,36,None,None,Not paid
+46,29,None,None,Not paid
+82,168,None,None,Paid
+74,180,None,None,Paid
+1,194,None,None,Paid
+74,112,None,None,Paid
+50,19,None,None,Not paid
+10,136,None,None,Paid
+88,32,None,None,Not paid
+59,133,None,None,Paid
+21,131,5,1,Not paid
+39,170,None,None,Paid
+65,53,9,3,Paid
+95,144,None,None,Not paid
+98,96,6,2,Paid
+59,189,None,None,Not paid
+76,12,None,None,Not paid
+29,27,None,None,Not paid
+86,151,8,2,Not paid
+10,108,None,None,Not paid
+13,18,None,None,Paid
+97,48,None,None,Not paid
+41,192,7,3,Paid
+67,197,None,None,Paid
+50,127,None,None,Paid
+85,108,6,3,Paid
+62,156,None,None,Paid
+91,187,None,None,Paid
+63,51,5,2,Paid
+43,22,None,None,Paid
+92,136,None,None,Paid
+17,143,None,None,Not paid
+35,84,None,None,Not paid
+84,56,None,None,Not paid
+85,128,9,3,Not paid
+52,78,None,None,Not paid
+25,172,None,None,Paid
+11,196,7,2,Paid
+21,30,6,2,Not paid
+80,187,None,None,Not paid
+10,99,None,None,Paid
+9,14,None,None,Paid
+30,59,None,None,Paid
+13,33,None,None,Paid
+32,189,None,None,Not paid
+26,180,None,None,Not paid
+13,100,None,None,Paid
+79,78,None,None,Not paid
+38,170,None,None,Paid
+72,113,5,2,Not paid
+12,166,None,None,Paid
+60,53,5,4,Not paid
+99,30,None,None,Paid
+33,50,None,None,Paid
+20,102,None,None,Not paid
+27,64,None,None,Not paid
+2,157,None,None,Not paid
+54,106,None,None,Paid
+58,38,9,1,Paid
+69,187,None,None,Paid
+71,190,None,None,Not paid
+87,44,None,None,Not paid
+8,145,5,2,Not paid
+11,33,9,1,Paid
+67,46,None,None,Not paid
+12,170,None,None,Not paid
+28,74,None,None,Paid
+88,159,None,None,Paid
+72,78,10,1,Not paid
+24,112,None,None,Paid
+28,180,None,None,Paid
+87,67,None,None,Paid
+55,115,None,None,Not paid
+36,89,None,None,Paid
+41,36,10,3,Not paid
+60,146,6,3,Paid
+78,142,None,None,Not paid
+79,64,None,None,Paid
+49,136,9,4,Paid
+3,136,None,None,Paid
+31,36,None,None,Not paid
+80,43,None,None,Not paid
+7,38,6,1,Paid
+27,111,None,None,Paid
+96,30,8,4,Paid
+72,37,9,1,Paid
+52,134,None,None,Paid
+58,37,9,1,Not paid
+5,17,None,None,Not paid
+88,24,None,None,Paid
+58,11,9,1,Not paid
+50,14,None,None,Paid
+67,41,None,None,Not paid
+73,93,None,None,Paid
+85,131,8,3,Not paid
+61,1,None,None,Paid
+88,8,None,None,Paid
+6,189,7,1,Paid
+37,137,7,5,Paid
+19,152,9,4,Not paid
+78,107,None,None,Not paid
+47,17,None,None,Not paid
+21,29,5,3,Paid
+7,178,9,2,Paid
+3,60,None,None,Paid
+19,42,9,2,Paid
+8,45,5,2,Paid
+23,102,None,None,Not paid
+72,63,5,2,Not paid
+39,179,None,None,Paid
+66,186,8,4,Not paid
+65,63,7,5,Not paid
+23,16,None,None,Not paid
+57,148,None,None,Not paid
+21,41,5,3,Not paid
+93,32,None,None,Not paid
+31,171,None,None,Paid
+58,157,7,5,Not paid
+74,168,None,None,Not paid
+74,119,None,None,Paid
+79,49,None,None,Paid
+58,133,6,5,Paid
+59,89,None,None,Not paid
+21,186,7,5,Paid
+51,173,None,None,Not paid
+34,153,None,None,Paid
+23,71,None,None,Not paid
+35,194,None,None,Not paid
+98,120,7,4,Not paid
+39,184,None,None,Paid
+76,74,None,None,Not paid
+18,121,None,None,Not paid
+96,36,5,5,Paid
+82,143,None,None,Not paid
+28,163,None,None,Paid
+54,108,None,None,Not paid
+46,86,None,None,Paid
+51,152,None,None,Paid
+87,150,None,None,Paid
+41,162,9,5,Paid
+0,112,None,None,Not paid
+73,198,None,None,Not paid
+48,19,None,None,Not paid
+37,107,10,3,Paid
+12,29,None,None,Paid
+54,138,None,None,Not paid
+12,65,None,None,Paid
+16,24,None,None,Not paid
+13,159,None,None,Paid
+62,97,None,None,Not paid
+90,73,None,None,Paid
+12,39,None,None,Not paid
+67,140,None,None,Not paid
+21,74,8,2,Paid
+61,2,None,None,Paid
+4,181,None,None,Not paid
+84,116,None,None,Not paid
+47,180,None,None,Paid
+84,163,None,None,Not paid
+98,22,6,2,Not paid
+45,83,None,None,Paid
+55,139,None,None,Not paid
+11,189,7,1,Paid
+55,8,None,None,Not paid
+37,73,7,2,Not paid
+96,98,9,5,Paid
+76,134,None,None,Not paid
+13,132,None,None,Not paid
+46,49,None,None,Paid
+1,105,None,None,Paid
+25,38,None,None,Paid
+64,123,None,None,Paid
+11,120,6,4,Paid
+7,54,8,2,Paid
+30,160,None,None,Paid
+68,43,None,None,Not paid
+88,84,None,None,Paid
+78,6,None,None,Not paid
+96,104,8,2,Not paid
+35,53,None,None,Not paid
+58,20,9,3,Not paid
+9,119,None,None,Not paid
+7,47,6,2,Not paid
+80,69,None,None,Not paid
+50,27,None,None,Not paid
+43,97,None,None,Not paid
+91,160,None,None,Not paid
+17,142,None,None,Paid
+85,182,8,3,Paid
+45,75,None,None,Paid
+87,148,None,None,Not paid
+99,98,None,None,Paid
+54,95,None,None,Not paid
+18,106,None,None,Not paid
+42,152,None,None,Paid
+8,81,9,4,Not paid
+53,31,None,None,Not paid
+42,28,None,None,Paid
+62,142,None,None,Paid
+97,19,None,None,Paid
+37,4,7,2,Not paid
+58,119,6,5,Paid
+88,151,None,None,Not paid
+27,47,None,None,Not paid
+61,162,None,None,Paid
+66,93,9,1,Paid
+94,72,None,None,Not paid
+85,34,9,2,Paid
+76,197,None,None,Paid
+65,47,8,1,Not paid
+6,85,10,5,Not paid
+73,163,None,None,Not paid
+24,109,None,None,Not paid
+44,180,None,None,Not paid
+76,140,None,None,Paid
+22,131,None,None,Paid
+49,74,6,2,Paid
+10,147,None,None,Paid
+32,182,None,None,Paid
+15,28,None,None,Not paid
+92,90,None,None,Paid
+86,58,10,1,Not paid
+58,139,6,1,Paid
+18,134,None,None,Paid
+12,157,None,None,Paid
+18,24,None,None,Not paid
+51,186,None,None,Not paid
+92,179,None,None,Paid
+12,68,None,None,Paid
+90,186,None,None,Paid
+22,11,None,None,Not paid
+67,56,None,None,Not paid
+0,147,None,None,Not paid
+20,85,None,None,Not paid
+83,110,None,None,Paid
+94,90,None,None,Not paid
+72,85,9,4,Paid
+34,185,None,None,Paid
+76,1,None,None,Paid
+58,111,10,1,Paid
+8,129,5,4,Paid
+73,4,None,None,Not paid
+62,106,None,None,Not paid
+37,71,5,1,Not paid
+14,134,None,None,Paid
+56,185,None,None,Paid
+75,36,None,None,Not paid
+2,37,None,None,Not paid
+25,126,None,None,Not paid
+84,2,None,None,Not paid
+37,3,9,5,Paid
+49,6,9,3,Not paid
+37,98,7,2,Paid
+13,183,None,None,Not paid
+52,124,None,None,Not paid
+18,166,None,None,Not paid
+11,114,5,4,Paid
+38,1,None,None,Not paid
+10,159,None,None,Not paid
+51,85,None,None,Paid
+13,174,None,None,Not paid
+58,101,8,1,Not paid
+96,136,10,2,Not paid
+9,131,None,None,Not paid
+61,20,None,None,Paid
+96,64,6,3,Paid
+22,134,None,None,Not paid
+35,183,None,None,Not paid
+34,37,None,None,Paid
+81,107,None,None,Not paid
+50,199,None,None,Not paid
+33,109,None,None,Not paid
+42,35,None,None,Paid
+18,115,None,None,Not paid
+33,17,None,None,Paid
+4,96,None,None,Not paid
+45,191,None,None,Not paid
+73,9,None,None,Paid
+55,53,None,None,Paid
+92,190,None,None,Not paid
+34,75,None,None,Paid
+79,94,None,None,Not paid
+73,100,None,None,Not paid
+17,86,None,None,Not paid
+69,110,None,None,Not paid
+0,109,None,None,Not paid
+58,75,10,5,Not paid
+2,7,None,None,Not paid
+62,98,None,None,Paid
+74,120,None,None,Paid
+34,23,None,None,Not paid
+24,162,None,None,Paid
+22,168,None,None,Paid
+49,2,8,3,Not paid
+26,198,None,None,Paid
+89,118,None,None,Paid
+48,70,None,None,Paid
+25,187,None,None,Paid
+16,19,None,None,Paid
+34,127,None,None,Not paid
+63,62,6,1,Paid
+44,19,None,None,Paid
+55,167,None,None,Not paid
+69,196,None,None,Not paid
+40,172,None,None,Paid
+35,103,None,None,Paid
+26,85,None,None,Not paid
+79,2,None,None,Paid
+60,93,7,1,Paid
+46,50,None,None,Paid
+15,107,None,None,Paid
+75,80,None,None,Not paid
+50,46,None,None,Paid
+31,182,None,None,Paid
+38,127,None,None,Paid
+29,53,None,None,Paid
+28,195,None,None,Paid
+82,149,None,None,Paid
+86,10,10,1,Paid
+31,91,None,None,Not paid
+50,59,None,None,Not paid
+69,80,None,None,Paid
+79,93,None,None,Not paid
+56,63,None,None,Paid
+99,145,None,None,Paid
+17,41,None,None,Not paid
+24,126,None,None,Not paid
+86,23,7,4,Paid
+67,99,None,None,Paid
+67,90,None,None,Not paid
+20,43,None,None,Not paid
+39,141,None,None,Not paid
+24,102,None,None,Not paid
+43,139,None,None,Paid
+3,74,None,None,Not paid
+95,92,None,None,Paid
+45,151,None,None,Paid
+28,90,None,None,Not paid
+19,83,10,3,Paid
+34,24,None,None,Not paid
+49,143,7,5,Paid
+15,6,None,None,Paid
+16,25,None,None,Not paid
+19,179,7,3,Paid
+33,53,None,None,Paid
+63,101,5,3,Paid
+71,106,None,None,Paid
+17,89,None,None,Not paid
+14,141,None,None,Paid
+48,159,None,None,Not paid
+20,83,None,None,Not paid
+5,0,None,None,Not paid
+66,99,9,3,Paid
+0,97,None,None,Not paid
+19,0,6,2,Paid
+53,32,None,None,Not paid
+58,189,10,3,Not paid
+11,70,9,5,Paid
+7,137,8,5,Not paid
+77,84,None,None,Not paid
+13,61,None,None,Paid
+7,82,5,2,Paid
+56,117,None,None,Paid
+82,188,None,None,Not paid
+34,97,None,None,Paid
+87,43,None,None,Not paid
+67,186,None,None,Not paid
+33,67,None,None,Paid
+80,184,None,None,Not paid
+64,122,None,None,Paid
+92,63,None,None,Paid
+62,138,None,None,Not paid
+41,72,6,2,Not paid
+23,86,None,None,Not paid
+1,126,None,None,Paid
+65,16,9,3,Paid
+99,162,None,None,Not paid
+3,110,None,None,Paid
+92,32,None,None,Paid
+31,82,None,None,Paid
+97,183,None,None,Not paid
+92,165,None,None,Paid
+24,115,None,None,Not paid
+90,27,None,None,Paid
+44,58,None,None,Not paid
+44,115,None,None,Paid
+30,5,None,None,Not paid
+91,131,None,None,Not paid
+95,108,None,None,Not paid
+83,77,None,None,Not paid
+6,151,8,4,Not paid
+50,9,None,None,Paid
+82,192,None,None,Paid
+45,40,None,None,Paid
+82,148,None,None,Paid
+82,20,None,None,Not paid
+9,145,None,None,Paid
+6,147,5,4,Paid
+56,118,None,None,Paid
+85,152,7,1,Paid
+56,192,None,None,Paid
+61,126,None,None,Not paid
+80,141,None,None,Paid
+85,160,5,5,Not paid
+98,173,5,5,Not paid
+84,69,None,None,Not paid
+36,146,None,None,Paid
+58,18,6,4,Paid
+32,3,None,None,Not paid
+26,86,None,None,Paid
+96,97,7,3,Not paid
+16,104,None,None,Not paid
+22,166,None,None,Paid
+3,68,None,None,Paid
+51,132,None,None,Not paid
+99,160,None,None,Paid
+48,102,None,None,Paid
+45,176,None,None,Paid
+33,165,None,None,Not paid
+39,108,None,None,Paid
+99,88,None,None,Not paid
+98,186,7,2,Not paid
+56,98,None,None,Not paid
+15,105,None,None,Not paid
+78,4,None,None,Not paid
+19,111,7,4,Not paid
+97,72,None,None,Paid
+66,179,10,1,Not paid
+6,117,9,2,Not paid
+81,7,None,None,Not paid
+37,19,7,2,Paid
+93,2,None,None,Not paid
+26,176,None,None,Not paid
+65,17,6,3,Not paid
+55,101,None,None,Not paid
+44,79,None,None,Paid
+10,113,None,None,Paid
+96,177,10,2,Not paid
+86,75,5,5,Not paid
+86,123,9,4,Paid
+71,25,None,None,Paid
+2,80,None,None,Not paid
+14,196,None,None,Not paid
+73,94,None,None,Paid
+87,97,None,None,Not paid
+8,52,8,2,Not paid
+27,134,None,None,Not paid
+96,10,8,1,Not paid
+76,8,None,None,Not paid
+89,105,None,None,Paid
+67,95,None,None,Paid
+76,162,None,None,Not paid
+24,74,None,None,Paid
+85,141,5,3,Paid
+65,6,9,5,Not paid
+14,182,None,None,Not paid
+85,90,10,4,Paid
+94,109,None,None,Paid
+92,197,None,None,Not paid
+17,68,None,None,Not paid
+93,117,None,None,Paid
+18,76,None,None,Not paid
+71,77,None,None,Paid
+16,94,None,None,Paid
+98,10,10,5,Paid
+41,69,8,4,Not paid
+90,7,None,None,Not paid
+47,69,None,None,Paid
+38,16,None,None,Paid
+13,82,None,None,Paid
+84,76,None,None,Not paid
+0,53,None,None,Paid
+56,197,None,None,Paid
+98,160,6,1,Paid
+9,32,None,None,Paid
+6,35,7,5,Not paid
+85,195,9,5,Not paid
+15,70,None,None,Paid
+37,199,6,2,Not paid
+79,158,None,None,Paid
+83,181,None,None,Paid
+72,0,6,4,Paid
+54,196,None,None,Not paid
+49,104,5,2,Paid
+48,179,None,None,Paid
+69,145,None,None,Not paid
+62,110,None,None,Not paid
+13,112,None,None,Paid
+34,74,None,None,Paid
+23,189,None,None,Not paid
+58,53,10,1,Not paid
+31,48,None,None,Paid
+10,96,None,None,Paid
+54,165,None,None,Paid
+63,87,7,4,Paid
+64,82,None,None,Paid
+20,107,None,None,Not paid
+54,127,None,None,Not paid
+72,72,7,4,Not paid
+90,83,None,None,Not paid
+40,190,None,None,Not paid
+91,16,None,None,Not paid
+34,40,None,None,Paid
+28,192,None,None,Paid
+22,22,None,None,Not paid
+33,84,None,None,Not paid
+68,116,None,None,Paid
+51,23,None,None,Paid
+3,63,None,None,Not paid
+6,180,10,1,Not paid
+77,93,None,None,Not paid
+83,162,None,None,Not paid
+29,105,None,None,Not paid
+87,18,None,None,Paid
+98,189,8,5,Not paid
+52,122,None,None,Paid
+58,175,6,5,Not paid
+29,166,None,None,Paid
+48,100,None,None,Paid
+96,139,9,1,Paid
+24,7,None,None,Not paid
+33,7,None,None,Not paid
+32,166,None,None,Paid
+15,137,None,None,Paid
+93,157,None,None,Paid
+74,146,None,None,Not paid
+29,193,None,None,Not paid
+51,3,None,None,Paid
+69,172,None,None,Paid
+0,192,None,None,Not paid
+34,18,None,None,Not paid
+31,95,None,None,Not paid
+11,127,7,4,Paid
+11,88,9,5,Paid
+85,38,9,5,Not paid
+99,139,None,None,Not paid
+67,104,None,None,Not paid
+96,13,10,4,Paid
+63,29,10,2,Paid
+37,58,7,2,Not paid
+88,20,None,None,Paid
+50,124,None,None,Not paid
+63,85,9,5,Not paid
+49,124,9,4,Paid
+18,9,None,None,Paid
+71,187,None,None,Not paid
+81,0,None,None,Not paid
+15,43,None,None,Not paid
+34,59,None,None,Paid
+54,60,None,None,Not paid
+91,94,None,None,Paid
+84,106,None,None,Paid
+25,27,None,None,Not paid
+43,107,None,None,Paid
+56,9,None,None,Not paid
+2,96,None,None,Not paid
+8,109,5,5,Not paid
+53,154,None,None,Paid
+52,150,None,None,Not paid
+55,52,None,None,Paid
+5,80,None,None,Not paid
+98,123,7,4,Not paid
+7,59,8,5,Not paid
+99,115,None,None,Paid
+32,94,None,None,Paid
+61,95,None,None,Not paid
+83,180,None,None,Paid
+10,18,None,None,Not paid
+22,35,None,None,Not paid
+47,0,None,None,Paid
+53,166,None,None,Paid
+27,90,None,None,Not paid
+40,97,None,None,Not paid
+82,80,None,None,Paid
+20,179,None,None,Paid
+47,158,None,None,Paid
+74,71,None,None,Paid
+46,9,None,None,Not paid
+91,59,None,None,Paid
+79,55,None,None,Paid
+59,93,None,None,Not paid
+64,193,None,None,Paid
+66,178,10,2,Paid
+1,199,None,None,Paid
+56,180,None,None,Not paid
+1,77,None,None,Paid
+80,29,None,None,Not paid
+36,61,None,None,Not paid
+62,55,None,None,Paid
+43,177,None,None,Paid
+68,177,None,None,Paid
+56,166,None,None,Not paid
+81,45,None,None,Not paid
+65,121,8,1,Not paid
+42,99,None,None,Paid
+41,27,8,2,Paid
+60,183,8,3,Not paid
+67,27,None,None,Paid
+9,5,None,None,Paid
+7,8,9,2,Not paid
+74,152,None,None,Paid
+86,40,7,4,Paid
+28,49,None,None,Not paid
+23,77,None,None,Paid
+32,67,None,None,Not paid
+89,197,None,None,Not paid
+42,92,None,None,Not paid
+15,178,None,None,Paid
+2,3,None,None,Paid
+65,79,9,2,Paid
+43,17,None,None,Not paid
+85,198,5,2,Paid
+18,82,None,None,Paid
+99,17,None,None,Not paid
+20,93,None,None,Not paid
+43,98,None,None,Paid
+48,38,None,None,Paid
+61,159,None,None,Paid
+69,191,None,None,Not paid
+78,123,None,None,Not paid
+32,90,None,None,Paid
+43,38,None,None,Paid
+66,47,5,1,Paid
+37,191,8,2,Paid
+45,181,None,None,Not paid
+44,176,None,None,Paid
+12,135,None,None,Paid
+81,135,None,None,Paid
+67,59,None,None,Paid
+92,157,None,None,Not paid
+58,137,5,5,Paid
+24,4,None,None,Not paid
+66,169,8,3,Paid
+8,106,8,1,Paid
+0,75,None,None,Paid
+86,189,9,5,Not paid
+94,186,None,None,Paid
+71,89,None,None,Not paid
+67,14,None,None,Paid
+18,40,None,None,Paid
+72,6,8,1,Paid
+18,42,None,None,Not paid
+35,144,None,None,Not paid
+89,149,None,None,Paid
+21,198,10,1,Paid
+7,92,10,3,Not paid
+8,66,8,4,Not paid
+1,142,None,None,Not paid
+63,17,8,4,Paid
+90,191,None,None,Paid
+89,143,None,None,Not paid
+44,164,None,None,Paid
+77,133,None,None,Paid
+90,168,None,None,Paid
+59,152,None,None,Not paid
+38,147,None,None,Paid
+38,56,None,None,Not paid
+30,186,None,None,Paid
+75,189,None,None,Paid
+49,172,7,4,Paid
+30,50,None,None,Not paid
+22,66,None,None,Not paid
+23,164,None,None,Not paid
+53,143,None,None,Not paid
+98,4,10,1,Not paid
+39,22,None,None,Not paid
+59,108,None,None,Not paid
+41,129,8,2,Not paid
+76,159,None,None,Paid
+1,169,None,None,Not paid
+27,146,None,None,Paid
+92,61,None,None,Not paid
+70,1,None,None,Not paid
+50,137,None,None,Not paid
+83,25,None,None,Paid
+94,177,None,None,Paid
+76,7,None,None,Paid
+33,195,None,None,Not paid
+4,11,None,None,Not paid
+88,192,None,None,Not paid
+61,168,None,None,Paid
+59,36,None,None,Not paid
+88,127,None,None,Not paid
+45,111,None,None,Not paid
+93,50,None,None,Paid
+60,151,10,5,Paid
+93,189,None,None,Paid
+92,175,None,None,Not paid
+83,54,None,None,Paid
+31,56,None,None,Not paid
+76,54,None,None,Not paid
+4,135,None,None,Not paid
+46,89,None,None,Not paid
+71,66,None,None,Paid
+32,101,None,None,Paid
+24,10,None,None,Paid
+16,115,None,None,Paid
+44,23,None,None,Paid
+6,39,6,5,Paid
+15,52,None,None,Paid
+72,144,7,1,Not paid
+73,136,None,None,Not paid
+66,168,6,5,Not paid
+79,60,None,None,Paid
+6,89,8,5,Not paid
+64,40,None,None,Paid
+75,115,None,None,Paid
+3,183,None,None,Paid
+71,179,None,None,Not paid
+28,25,None,None,Paid
+54,1,None,None,Paid
+54,71,None,None,Not paid
+28,121,None,None,Not paid
+86,57,8,1,Not paid
+2,29,None,None,Paid
+22,150,None,None,Paid
+67,1,None,None,Paid
+82,98,None,None,Not paid
+71,158,None,None,Not paid
+28,37,None,None,Not paid
+56,32,None,None,Not paid
+11,121,9,3,Paid
+24,134,None,None,Paid
+13,62,None,None,Paid
+8,113,7,2,Paid
+68,47,None,None,Paid
+83,62,None,None,Not paid
+12,49,None,None,Paid
+75,114,None,None,Paid
+12,40,None,None,Paid
+82,178,None,None,Not paid
+44,157,None,None,Paid
+71,2,None,None,Not paid
+56,193,None,None,Not paid
+89,179,None,None,Not paid
+77,20,None,None,Paid
+57,167,None,None,Not paid
+36,67,None,None,Paid
+18,112,None,None,Not paid
+86,163,10,4,Paid
+42,102,None,None,Paid
+14,129,None,None,Not paid
+2,58,None,None,Paid
+12,5,None,None,Paid
+10,40,None,None,Not paid
+78,116,None,None,Paid
+56,29,None,None,Not paid
+73,112,None,None,Not paid
+31,29,None,None,Not paid
+60,150,6,1,Paid
+73,167,None,None,Paid
+8,147,5,3,Paid
+27,91,None,None,Paid
+57,170,None,None,Not paid
+80,199,None,None,Not paid
+39,32,None,None,Paid
+22,6,None,None,Paid
+21,95,5,5,Not paid
+34,134,None,None,Not paid
+33,162,None,None,Paid
+21,81,5,2,Not paid
+18,75,None,None,Paid
+88,168,None,None,Not paid
+19,198,10,1,Not paid
+78,113,None,None,Paid
+84,107,None,None,Not paid
+32,2,None,None,Paid
+95,149,None,None,Paid
+45,196,None,None,Not paid
+20,194,None,None,Not paid
+34,165,None,None,Not paid
+42,14,None,None,Paid
+57,132,None,None,Not paid
+18,150,None,None,Paid
+1,98,None,None,Paid
+66,130,9,5,Not paid
+75,68,None,None,Not paid
+6,127,6,2,Not paid
+21,1,6,3,Paid
+56,172,None,None,Paid
+37,27,5,4,Not paid
+11,80,6,4,Not paid
+94,180,None,None,Not paid
+27,188,None,None,Paid
+29,75,None,None,Paid
+62,18,None,None,Not paid
+66,94,10,4,Not paid
+12,9,None,None,Not paid
+98,64,5,5,Paid
+68,189,None,None,Not paid
+10,10,None,None,Not paid
+19,67,10,4,Paid
+61,68,None,None,Not paid
+76,155,None,None,Not paid
+64,60,None,None,Not paid
+63,166,9,2,Paid
+90,58,None,None,Paid
+36,92,None,None,Paid
+94,31,None,None,Paid
+46,69,None,None,Paid
+97,141,None,None,Paid
+57,174,None,None,Paid
+73,14,None,None,Paid
+90,103,None,None,Paid
+10,12,None,None,Not paid
+55,54,None,None,Paid
+83,101,None,None,Paid
+3,130,None,None,Paid
+98,42,9,3,Paid
+74,77,None,None,Not paid
+43,73,None,None,Paid
+59,73,None,None,Not paid
+60,73,7,5,Not paid
+81,192,None,None,Not paid
+9,85,None,None,Not paid
+6,59,7,3,Not paid
+62,120,None,None,Paid
+13,111,None,None,Paid
+70,125,None,None,Not paid
+97,42,None,None,Not paid
+55,192,None,None,Not paid
+18,14,None,None,Not paid
+28,166,None,None,Paid
+73,133,None,None,Paid
+35,182,None,None,Not paid
+48,31,None,None,Paid
+35,87,None,None,Paid
+6,176,6,5,Paid
+64,103,None,None,Paid
+25,125,None,None,Paid
+22,125,None,None,Not paid
+58,17,6,2,Paid
+91,77,None,None,Paid
+74,195,None,None,Not paid
+74,122,None,None,Paid
+39,78,None,None,Paid
+9,30,None,None,Paid
+5,99,None,None,Not paid
+42,86,None,None,Paid
+97,110,None,None,Paid
+50,195,None,None,Paid
+17,134,None,None,Not paid
+65,181,9,1,Paid
+73,184,None,None,Not paid
+81,154,None,None,Paid
+91,47,None,None,Paid
+68,144,None,None,Paid
+8,43,7,2,Paid
+2,114,None,None,Not paid
+47,123,None,None,Paid
+98,113,9,2,Paid
+86,96,5,2,Not paid
+32,96,None,None,Paid
+70,101,None,None,Paid
+29,4,None,None,Not paid
+5,185,None,None,Paid
+48,151,None,None,Not paid
+82,6,None,None,Not paid
+61,35,None,None,Not paid
+89,71,None,None,Not paid
+43,155,None,None,Paid
+75,142,None,None,Paid
+77,32,None,None,Paid
+39,124,None,None,Not paid
+94,67,None,None,Paid
+86,165,5,2,Paid
+74,157,None,None,Not paid
+35,93,None,None,Paid
+80,65,None,None,Not paid
+90,106,None,None,Not paid
+51,146,None,None,Not paid
+65,97,10,4,Paid
+45,108,None,None,Paid
+90,34,None,None,Paid
+87,178,None,None,Paid
+98,52,6,4,Not paid
+96,103,6,4,Not paid
+50,111,None,None,Not paid
+30,116,None,None,Not paid
+97,55,None,None,Not paid
+34,148,None,None,Not paid
+63,92,10,5,Not paid
+35,189,None,None,Paid
+46,17,None,None,Paid
+84,128,None,None,Not paid
+55,170,None,None,Not paid
+39,187,None,None,Paid
+53,171,None,None,Not paid
+66,187,7,2,Paid
+28,175,None,None,Not paid
+72,55,6,4,Not paid
+38,142,None,None,Paid
+87,196,None,None,Not paid
+4,152,None,None,Not paid
+12,61,None,None,Paid
+23,82,None,None,Not paid
+14,103,None,None,Not paid
+12,175,None,None,Paid
+61,38,None,None,Paid
+49,150,5,4,Paid
+88,92,None,None,Paid
+6,179,7,2,Not paid
+36,110,None,None,Not paid
+16,2,None,None,Paid
+50,16,None,None,Not paid
+90,94,None,None,Not paid
+38,137,None,None,Paid
+94,137,None,None,Paid
+30,2,None,None,Paid
+30,105,None,None,Paid
+22,112,None,None,Paid
+38,98,None,None,Paid
+35,42,None,None,Not paid
+88,30,None,None,Paid
+32,9,None,None,Not paid
+95,68,None,None,Not paid
+36,94,None,None,Not paid
+84,175,None,None,Not paid
+27,92,None,None,Paid
+71,42,None,None,Paid
+47,194,None,None,Paid
+15,146,None,None,Not paid
+94,98,None,None,Paid
+9,124,None,None,Paid
+95,3,None,None,Paid
+69,42,None,None,Not paid
+5,101,None,None,Not paid
+48,40,None,None,Not paid
+7,2,9,5,Not paid
+46,126,None,None,Paid
+60,63,5,1,Paid
+71,6,None,None,Not paid
+5,158,None,None,Not paid
+80,24,None,None,Not paid
+99,91,None,None,Paid
+17,49,None,None,Not paid
+20,152,None,None,Paid
+92,134,None,None,Not paid
+67,4,None,None,Paid
+6,112,5,3,Not paid
+95,55,None,None,Paid
+73,52,None,None,Not paid
+80,23,None,None,Not paid
+24,87,None,None,Not paid
+78,80,None,None,Not paid
+16,127,None,None,Not paid
+17,13,None,None,Not paid
+5,106,None,None,Not paid
+95,10,None,None,Paid
+47,173,None,None,Paid
+70,159,None,None,Not paid
+54,12,None,None,Not paid
+69,130,None,None,Paid
+46,72,None,None,Not paid
+77,92,None,None,Paid
+68,10,None,None,Not paid
+23,141,None,None,Not paid
+9,178,None,None,Paid
+45,26,None,None,Not paid
+98,168,7,5,Not paid
+17,165,None,None,Paid
+0,182,None,None,Not paid
+88,183,None,None,Not paid
+29,150,None,None,Not paid
+87,172,None,None,Not paid
+82,198,None,None,Paid
+23,98,None,None,Not paid
+74,150,None,None,Paid
+2,5,None,None,Not paid
+75,121,None,None,Not paid
+81,17,None,None,Not paid
+65,71,10,2,Not paid
+5,63,None,None,Paid
+81,169,None,None,Not paid
+51,117,None,None,Not paid
+76,166,None,None,Not paid
+57,83,None,None,Paid
+0,183,None,None,Paid
+56,11,None,None,Not paid
+33,49,None,None,Paid
+63,164,8,4,Paid
+7,111,5,2,Not paid
+70,185,None,None,Paid
+97,152,None,None,Paid
+41,134,6,5,Paid
+33,40,None,None,Not paid
+34,91,None,None,Paid
+9,60,None,None,Paid
+16,182,None,None,Not paid
+15,26,None,None,Not paid
+8,61,6,5,Paid
+5,161,None,None,Paid
+39,53,None,None,Paid
+26,179,None,None,Paid
+50,23,None,None,Paid
+5,125,None,None,Not paid
+2,104,None,None,Not paid
+79,47,None,None,Not paid
+21,28,6,2,Paid
+73,22,None,None,Not paid
+26,27,None,None,Not paid
+54,55,None,None,Paid
+36,69,None,None,Paid
+99,188,None,None,Paid
+7,156,5,3,Not paid
+47,176,None,None,Not paid
+17,130,None,None,Paid
+65,31,6,2,Not paid
+28,79,None,None,Not paid
+38,119,None,None,Not paid
+12,102,None,None,Not paid
+16,53,None,None,Paid
+80,90,None,None,Paid
+83,3,None,None,Paid
+54,81,None,None,Not paid
+42,1,None,None,Not paid
+67,196,None,None,Paid
+99,183,None,None,Not paid
+30,175,None,None,Paid
+48,33,None,None,Not paid
+49,55,7,3,Paid
+75,171,None,None,Paid
+35,29,None,None,Not paid
+84,6,None,None,Not paid
+35,165,None,None,Paid
+25,155,None,None,Not paid
+10,73,None,None,Paid
+71,30,None,None,Paid
+50,126,None,None,Not paid
+67,8,None,None,Paid
+64,149,None,None,Paid
+47,88,None,None,Not paid
+71,128,None,None,Paid
+16,138,None,None,Paid
+3,51,None,None,Paid
+25,121,None,None,Not paid
+52,120,None,None,Not paid
+11,132,7,2,Not paid
+23,144,None,None,Not paid
+24,82,None,None,Paid
+86,12,5,2,Not paid
+7,91,9,2,Paid
+12,97,None,None,Not paid
+51,166,None,None,Not paid
+21,112,9,2,Paid
+73,98,None,None,Paid
+82,144,None,None,Not paid
+29,103,None,None,Not paid
+86,8,9,4,Not paid
+71,21,None,None,Not paid
+65,197,8,1,Paid
+72,95,8,3,Not paid
+52,21,None,None,Paid
+26,75,None,None,Not paid
+85,30,6,2,Paid
+41,91,9,4,Paid
+4,150,None,None,Not paid
+5,52,None,None,Not paid
+19,118,10,5,Paid
+93,131,None,None,Paid
+22,78,None,None,Not paid
+18,54,None,None,Not paid
+84,126,None,None,Paid
+76,156,None,None,Paid
+85,156,9,1,Not paid
+17,90,None,None,Not paid
+5,12,None,None,Paid
+25,6,None,None,Not paid
+29,178,None,None,Paid
+11,138,7,1,Paid
+73,115,None,None,Not paid
+47,7,None,None,Not paid
+86,122,10,2,Paid
+10,51,None,None,Paid
+70,78,None,None,Paid
+12,155,None,None,Not paid
+81,159,None,None,Not paid
+94,178,None,None,Paid
+20,32,None,None,Not paid
+73,103,None,None,Paid
+33,179,None,None,Not paid
+23,107,None,None,Paid
+96,55,5,1,Not paid
+90,127,None,None,Not paid
+11,98,8,3,Not paid
+43,167,None,None,Not paid
+15,189,None,None,Paid
+4,199,None,None,Not paid
+98,37,8,4,Paid
+61,166,None,None,Not paid
+88,96,None,None,Paid
+45,81,None,None,Paid
+18,26,None,None,Paid
+40,67,None,None,Not paid
+79,101,None,None,Paid
+68,82,None,None,Paid
+35,124,None,None,Paid
+38,106,None,None,Paid
+1,31,None,None,Paid
+80,41,None,None,Paid
+39,130,None,None,Not paid
+92,183,None,None,Not paid
+90,108,None,None,Paid
+9,149,None,None,Paid
+58,128,10,5,Not paid
+44,44,None,None,Not paid
+43,175,None,None,Paid
+82,9,None,None,Paid
+36,11,None,None,Paid
+90,139,None,None,Not paid
+11,55,8,5,Not paid
+74,57,None,None,Not paid
+94,115,None,None,Paid
+82,56,None,None,Paid
+92,52,None,None,Not paid
+42,53,None,None,Paid
+16,45,None,None,Not paid
+61,179,None,None,Not paid
+21,49,10,2,Paid
+54,26,None,None,Paid
+33,153,None,None,Not paid
+55,64,None,None,Not paid
+29,34,None,None,Paid
+63,133,8,1,Paid
+0,87,None,None,Paid
+88,199,None,None,Not paid
+54,124,None,None,Paid
+81,185,None,None,Paid
+67,44,None,None,Paid
+3,120,None,None,Paid
+90,65,None,None,Not paid
+42,154,None,None,Not paid
+75,123,None,None,Paid
+3,148,None,None,Paid
+47,73,None,None,Paid
+10,155,None,None,Not paid
+28,190,None,None,Not paid
+28,164,None,None,Paid
+37,53,8,3,Not paid
+32,16,None,None,Paid
+69,93,None,None,Paid
+17,108,None,None,Paid
+39,43,None,None,Not paid
+72,16,9,5,Paid
+19,19,5,5,Paid
+82,157,None,None,Paid
+98,170,7,3,Paid
+58,13,8,1,Not paid
+23,87,None,None,Paid
+96,92,7,1,Paid
+9,54,None,None,Paid
+2,185,None,None,Not paid
+98,59,9,2,Not paid
+15,135,None,None,Not paid
+78,45,None,None,Not paid
+79,192,None,None,Paid
+75,182,None,None,Paid
+15,199,None,None,Paid
+76,117,None,None,Paid
+70,64,None,None,Paid
+62,25,None,None,Paid
+85,159,5,4,Paid
+25,163,None,None,Not paid
+78,95,None,None,Paid
+56,94,None,None,Not paid
+57,127,None,None,Not paid
+8,105,8,3,Paid
+2,166,None,None,Not paid
+84,54,None,None,Not paid
+83,80,None,None,Paid
+14,11,None,None,Paid
+66,29,8,1,Not paid
+90,161,None,None,Not paid
+73,63,None,None,Not paid
+19,97,8,4,Paid
+94,167,None,None,Not paid
+15,95,None,None,Not paid
+26,34,None,None,Paid
+22,18,None,None,Not paid
+1,175,None,None,Not paid
+43,128,None,None,Not paid
+63,108,5,1,Not paid
+91,72,None,None,Not paid
+97,65,None,None,Not paid
+12,134,None,None,Not paid
+98,68,7,4,Paid
+70,12,None,None,Paid
+8,2,7,1,Not paid
+41,182,6,5,Not paid
+62,158,None,None,Paid
+70,160,None,None,Not paid
+5,156,None,None,Not paid
+26,67,None,None,Not paid
+46,98,None,None,Paid
+59,168,None,None,Not paid
+27,108,None,None,Not paid
+25,198,None,None,Not paid
+27,181,None,None,Not paid
+58,93,6,1,Paid
+90,99,None,None,Not paid
+75,58,None,None,Not paid
+12,194,None,None,Paid
+40,114,None,None,Paid
+20,162,None,None,Not paid
+12,22,None,None,Paid
+90,188,None,None,Not paid
+31,99,None,None,Paid
+1,179,None,None,Not paid
+52,95,None,None,Not paid
+35,104,None,None,Paid
+8,25,7,3,Not paid
+3,47,None,None,Not paid
+93,94,None,None,Paid
+39,14,None,None,Not paid
+69,15,None,None,Paid
+36,99,None,None,Not paid
+34,162,None,None,Paid
+31,108,None,None,Not paid
+23,157,None,None,Not paid
+32,102,None,None,Paid
+93,78,None,None,Not paid
+74,124,None,None,Paid
+19,117,7,5,Not paid
+69,4,None,None,Not paid
+48,14,None,None,Not paid
+66,147,9,3,Paid
+48,124,None,None,Paid
+43,75,None,None,Paid
+89,122,None,None,Paid
+66,57,7,3,Not paid
+86,183,5,4,Not paid
+66,152,6,3,Not paid
+74,0,None,None,Not paid
+21,144,9,1,Not paid
+7,39,9,5,Paid
+96,66,5,5,Not paid
+25,137,None,None,Not paid
+81,134,None,None,Not paid
+33,116,None,None,Not paid
+83,69,None,None,Not paid
+25,10,None,None,Paid
+64,174,None,None,Paid
+65,87,5,5,Not paid
+62,92,None,None,Paid
+87,42,None,None,Paid
+78,198,None,None,Paid
+54,61,None,None,Paid
+0,19,None,None,Paid
+82,94,None,None,Not paid
+8,128,6,2,Not paid
+78,88,None,None,Paid
+89,97,None,None,Paid
+79,186,None,None,Paid
+81,111,None,None,Paid
+72,177,6,5,Not paid
+63,33,6,3,Paid
+75,156,None,None,Not paid
+71,152,None,None,Not paid
+24,159,None,None,Not paid
+90,55,None,None,Not paid
+87,86,None,None,Paid
+10,49,None,None,Not paid
+16,181,None,None,Not paid
+37,103,7,4,Paid
+59,179,None,None,Paid
+44,169,None,None,Not paid
+47,1,None,None,Paid
+34,39,None,None,Not paid
+55,171,None,None,Paid
+50,65,None,None,Not paid
+95,46,None,None,Not paid
+70,132,None,None,Not paid
+48,160,None,None,Not paid
+32,127,None,None,Not paid
+78,163,None,None,Not paid
+86,132,6,4,Not paid
+51,41,None,None,Paid
+58,162,6,2,Paid
+48,156,None,None,Not paid
+86,113,5,2,Not paid
+51,111,None,None,Paid
+73,38,None,None,Not paid
+18,71,None,None,Not paid
+82,169,None,None,Not paid
+25,37,None,None,Not paid
+56,18,None,None,Paid
+46,146,None,None,Not paid
+40,159,None,None,Paid
+30,153,None,None,Paid
+38,96,None,None,Not paid
+50,179,None,None,Paid
+46,180,None,None,Paid
+97,140,None,None,Not paid
+76,175,None,None,Paid
+7,163,6,3,Not paid
+58,2,9,1,Not paid
+66,119,6,1,Paid
+8,48,8,4,Not paid
+9,158,None,None,Paid
+87,131,None,None,Not paid
+49,37,9,5,Paid
+22,144,None,None,Paid
+75,52,None,None,Not paid
+26,28,None,None,Paid
+78,174,None,None,Paid
+28,60,None,None,Not paid
+27,58,None,None,Not paid
+20,123,None,None,Not paid
+62,192,None,None,Not paid
+56,150,None,None,Paid
+96,125,7,3,Paid
+42,198,None,None,Paid
+56,120,None,None,Not paid
+31,96,None,None,Paid
+48,32,None,None,Not paid
+80,54,None,None,Not paid
+90,22,None,None,Not paid
+49,173,10,3,Paid
+87,105,None,None,Not paid
+93,155,None,None,Not paid
+16,134,None,None,Paid
+56,7,None,None,Paid
+72,149,8,3,Not paid
+14,69,None,None,Not paid
+21,181,6,4,Paid
+92,169,None,None,Not paid
+67,110,None,None,Paid
+46,120,None,None,Paid
+90,115,None,None,Not paid
+71,169,None,None,Not paid
+90,101,None,None,Paid
+24,29,None,None,Not paid
+46,80,None,None,Paid
+74,37,None,None,Paid
+36,121,None,None,Not paid
+42,7,None,None,Not paid
+8,137,8,4,Not paid
+60,198,6,3,Not paid
+9,94,None,None,Not paid
+16,59,None,None,Not paid
+80,135,None,None,Not paid
+11,163,9,4,Not paid
+77,101,None,None,Paid
+94,199,None,None,Not paid
+81,57,None,None,Not paid
+51,45,None,None,Not paid
+16,146,None,None,Paid
+54,30,None,None,Paid
+97,134,None,None,Paid
+94,23,None,None,Not paid
+81,194,None,None,Not paid
+58,152,7,5,Not paid
+46,55,None,None,Not paid
+54,67,None,None,Paid
+78,196,None,None,Not paid
+63,31,9,5,Not paid
+13,10,None,None,Not paid
+47,56,None,None,Not paid
+22,71,None,None,Paid
+44,10,None,None,Not paid
+75,57,None,None,Not paid
+72,53,10,2,Not paid
+99,87,None,None,Paid
+27,5,None,None,Not paid
+26,91,None,None,Not paid
+25,134,None,None,Not paid
+42,141,None,None,Not paid
+22,167,None,None,Not paid
+56,175,None,None,Paid
+96,26,8,1,Paid
+69,185,None,None,Paid
+91,193,None,None,Not paid
+70,87,None,None,Not paid
+30,56,None,None,Paid
+15,176,None,None,Paid
+91,6,None,None,Paid
+61,137,None,None,Not paid
+56,87,None,None,Not paid
+15,23,None,None,Paid
+35,35,None,None,Paid
+29,54,None,None,Not paid
+21,123,10,1,Paid
+54,32,None,None,Paid
+91,123,None,None,Paid
+36,123,None,None,Paid
+29,14,None,None,Not paid
+8,35,10,4,Paid
+30,143,None,None,Not paid
+35,86,None,None,Paid
+65,184,9,5,Not paid
+77,116,None,None,Not paid
+91,88,None,None,Paid
+33,140,None,None,Not paid
+21,120,10,1,Not paid
+96,183,6,5,Not paid
+99,28,None,None,Not paid
+54,29,None,None,Not paid
+55,12,None,None,Paid
+81,141,None,None,Not paid
+41,70,8,1,Paid
+79,99,None,None,Paid
+87,176,None,None,Not paid
+91,64,None,None,Not paid
+92,141,None,None,Paid
+99,4,None,None,Paid
+96,114,5,1,Not paid
+91,7,None,None,Paid
+72,133,7,1,Paid
+2,39,None,None,Paid
+72,130,10,5,Paid
+45,61,None,None,Paid
+19,171,7,1,Paid
+78,17,None,None,Not paid
+45,148,None,None,Paid
+99,100,None,None,Not paid
+99,157,None,None,Not paid
+42,83,None,None,Not paid
+18,180,None,None,Not paid
+93,99,None,None,Not paid
+76,4,None,None,Not paid
+68,44,None,None,Not paid
+16,100,None,None,Not paid
+86,13,5,1,Not paid
+4,16,None,None,Paid
+99,143,None,None,Not paid
+61,51,None,None,Not paid
+41,185,5,1,Paid
+38,161,None,None,Not paid
+46,53,None,None,Not paid
+60,14,10,2,Paid
+60,133,9,1,Not paid
+59,197,None,None,Paid
+6,46,6,3,Not paid
+16,124,None,None,Paid
+83,187,None,None,Paid
+44,111,None,None,Not paid
+87,4,None,None,Paid
+23,149,None,None,Not paid
+59,111,None,None,Not paid
+91,111,None,None,Paid
+3,21,None,None,Not paid
+14,156,None,None,Paid
+25,195,None,None,Paid
+79,157,None,None,Not paid
+86,114,10,2,Not paid
+43,50,None,None,Paid
+72,96,9,1,Not paid
+30,96,None,None,Paid
+89,24,None,None,Not paid
+61,173,None,None,Paid
+62,128,None,None,Paid
+44,173,None,None,Paid
+22,63,None,None,Not paid
+32,25,None,None,Not paid
+12,38,None,None,Not paid
+15,31,None,None,Not paid
+98,86,7,4,Not paid
+99,190,None,None,Not paid
+28,147,None,None,Paid
+52,167,None,None,Paid
+61,54,None,None,Paid
+38,35,None,None,Paid
+1,3,None,None,Not paid
+52,74,None,None,Paid
+53,182,None,None,Paid
+34,114,None,None,Not paid
+52,159,None,None,Not paid
+64,109,None,None,Paid
+66,96,5,2,Not paid
+78,189,None,None,Not paid
+87,130,None,None,Not paid
+26,16,None,None,Not paid
+13,80,None,None,Paid
+34,173,None,None,Not paid
+13,32,None,None,Not paid
+76,104,None,None,Paid
+31,151,None,None,Not paid
+69,25,None,None,Not paid
+37,162,8,3,Not paid
+53,172,None,None,Not paid
+47,137,None,None,Paid
+51,34,None,None,Not paid
+37,188,9,1,Not paid
+31,43,None,None,Paid
+96,184,6,5,Paid
+59,105,None,None,Not paid
+16,147,None,None,Paid
+14,19,None,None,Not paid
+41,187,6,1,Not paid
+95,1,None,None,Not paid
+30,161,None,None,Not paid
+1,93,None,None,Paid
+22,27,None,None,Paid
+79,14,None,None,Paid
+51,64,None,None,Not paid
+63,102,10,3,Paid
+54,13,None,None,Paid
+99,163,None,None,Paid
+8,117,7,5,Not paid
+92,41,None,None,Not paid
+83,127,None,None,Paid
+47,197,None,None,Not paid
+79,139,None,None,Not paid
+26,12,None,None,Not paid
+35,125,None,None,Paid
+84,71,None,None,Paid
+95,138,None,None,Paid
+86,149,8,2,Not paid
+16,110,None,None,Paid
+91,162,None,None,Not paid
+12,26,None,None,Paid
+65,130,7,4,Paid
+5,131,None,None,Paid
+13,29,None,None,Paid
+58,12,10,4,Paid
+46,96,None,None,Not paid
+50,131,None,None,Paid
+29,99,None,None,Paid
+54,35,None,None,Not paid
+23,35,None,None,Paid
+22,117,None,None,Not paid
+61,70,None,None,Paid
+60,157,5,4,Paid
+49,87,10,4,Paid
+86,194,5,2,Not paid
+2,50,None,None,Not paid
+56,160,None,None,Paid
+89,152,None,None,Not paid
+7,56,8,3,Not paid
+90,177,None,None,Not paid
+10,28,None,None,Not paid
+1,91,None,None,Paid
+46,139,None,None,Not paid
+41,26,7,1,Not paid
+10,171,None,None,Not paid
+94,99,None,None,Not paid
+74,72,None,None,Paid
+42,72,None,None,Paid
+37,125,10,1,Not paid
+98,81,8,2,Not paid
+68,2,None,None,Not paid
+42,90,None,None,Not paid
+45,127,None,None,Not paid
+19,142,5,5,Paid
+53,41,None,None,Paid
+26,126,None,None,Paid
+9,45,None,None,Not paid
+96,189,10,4,Not paid
+4,103,None,None,Not paid
+81,29,None,None,Paid
+18,165,None,None,Not paid
+8,86,7,5,Not paid
+27,118,None,None,Not paid
+43,89,None,None,Not paid
+35,160,None,None,Paid
+34,188,None,None,Paid
+52,8,None,None,Not paid
+72,175,8,1,Paid
+96,85,9,4,Paid
+76,32,None,None,Paid
+5,82,None,None,Paid
+60,148,5,5,Not paid
+76,44,None,None,Paid
+9,34,None,None,Paid
+65,68,8,2,Not paid
+78,82,None,None,Not paid
+48,138,None,None,Paid
+41,133,9,3,Not paid
+79,81,None,None,Not paid
+96,154,6,2,Not paid
+29,160,None,None,Paid
+88,26,None,None,Not paid
+92,102,None,None,Paid
+93,142,None,None,Paid
+88,60,None,None,Not paid
+90,132,None,None,Paid
+5,103,None,None,Not paid
+99,159,None,None,Paid
+9,52,None,None,Paid
+74,41,None,None,Not paid
+83,195,None,None,Not paid
+5,153,None,None,Paid
+99,142,None,None,Not paid
+2,78,None,None,Not paid
+30,69,None,None,Paid
+38,51,None,None,Not paid
+97,44,None,None,Not paid
+75,100,None,None,Not paid
+14,187,None,None,Paid
+4,129,None,None,Paid
+45,1,None,None,Paid
+67,7,None,None,Paid
+84,164,None,None,Not paid
+6,76,7,5,Paid
+64,14,None,None,Not paid
+25,184,None,None,Not paid
+60,181,8,1,Not paid
+20,103,None,None,Paid
+83,153,None,None,Paid
+59,63,None,None,Not paid
+91,110,None,None,Paid
+32,21,None,None,Not paid
+67,71,None,None,Paid
+10,129,None,None,Paid
+11,179,8,5,Paid
+83,65,None,None,Paid
+44,160,None,None,Paid
+77,19,None,None,Not paid
+11,30,6,4,Not paid
+98,71,5,2,Not paid
+9,156,None,None,Paid
+0,197,None,None,Paid
+1,18,None,None,Not paid
+72,50,8,5,Not paid
+89,183,None,None,Paid
+31,26,None,None,Not paid
+81,87,None,None,Not paid
+49,31,8,3,Paid
+87,145,None,None,Not paid
+88,130,None,None,Paid
+35,15,None,None,Paid
+13,13,None,None,Paid
+50,34,None,None,Not paid
+8,34,7,1,Paid
+21,88,5,4,Paid
+4,196,None,None,Not paid
+62,135,None,None,Not paid
+82,133,None,None,Not paid
+87,90,None,None,Paid
+36,36,None,None,Not paid
+70,104,None,None,Not paid
+24,81,None,None,Paid
+35,197,None,None,Paid
+53,100,None,None,Paid
+30,10,None,None,Paid
+2,108,None,None,Paid
+27,8,None,None,Not paid
+57,80,None,None,Paid
+10,14,None,None,Not paid
+46,107,None,None,Paid
+34,142,None,None,Not paid
+9,70,None,None,Paid
+15,54,None,None,Paid
+99,116,None,None,Not paid
+62,37,None,None,Paid
+24,113,None,None,Not paid
+28,198,None,None,Paid
+13,156,None,None,Paid
+17,38,None,None,Not paid
+91,141,None,None,Not paid
+2,21,None,None,Not paid
+95,52,None,None,Paid
+5,171,None,None,Paid
+94,175,None,None,Paid
+6,33,10,2,Not paid
+87,63,None,None,Not paid
+40,149,None,None,Paid
+40,50,None,None,Paid
+2,136,None,None,Not paid
+15,89,None,None,Paid
+14,167,None,None,Paid
+68,165,None,None,Not paid
+44,85,None,None,Not paid
+68,35,None,None,Paid
+61,4,None,None,Not paid
+45,70,None,None,Not paid
+88,44,None,None,Not paid
+8,50,7,3,Not paid
+69,32,None,None,Paid
+33,150,None,None,Paid
+18,80,None,None,Not paid
+28,93,None,None,Paid
+80,39,None,None,Not paid
+38,84,None,None,Paid
+82,129,None,None,Paid
+92,38,None,None,Paid
+67,101,None,None,Paid
+52,158,None,None,Not paid
+47,172,None,None,Not paid
+96,175,5,3,Not paid
+44,64,None,None,Paid
+34,11,None,None,Paid
+81,126,None,None,Not paid
+89,79,None,None,Paid
+3,4,None,None,Paid
+97,29,None,None,Not paid
+23,198,None,None,Not paid
+50,174,None,None,Paid
+84,191,None,None,Paid
+18,142,None,None,Not paid
+7,192,10,5,Not paid
+23,159,None,None,Not paid
+35,145,None,None,Paid
+78,135,None,None,Not paid
+18,17,None,None,Paid
+79,194,None,None,Not paid
+20,21,None,None,Not paid
+51,154,None,None,Not paid
+19,175,7,5,Paid
+51,77,None,None,Not paid
+36,107,None,None,Not paid
+76,193,None,None,Not paid
+24,124,None,None,Paid
+16,101,None,None,Paid
+30,39,None,None,Paid
+6,84,9,2,Not paid
+58,192,10,1,Paid
+35,96,None,None,Paid
+51,13,None,None,Not paid
+88,128,None,None,Paid
+88,95,None,None,Paid
+48,168,None,None,Paid
+84,84,None,None,Not paid
+26,195,None,None,Paid
+88,188,None,None,Paid
+55,85,None,None,Not paid
+12,19,None,None,Paid
+29,1,None,None,Paid
+76,190,None,None,Not paid
+24,135,None,None,Not paid
+71,186,None,None,Paid
+59,50,None,None,Not paid
+27,52,None,None,Paid
+94,50,None,None,Not paid
+95,48,None,None,Paid
+69,126,None,None,Not paid
+55,118,None,None,Not paid
+71,185,None,None,Paid
+62,14,None,None,Not paid
+59,26,None,None,Not paid
+61,136,None,None,Not paid
+29,10,None,None,Not paid
+65,0,8,3,Paid
+56,35,None,None,Not paid
+55,190,None,None,Paid
+27,175,None,None,Paid
+42,45,None,None,Paid
+33,25,None,None,Not paid
+99,70,None,None,Paid
+44,16,None,None,Not paid
+44,195,None,None,Paid
+29,102,None,None,Paid
+22,100,None,None,Not paid
+59,166,None,None,Paid
+40,143,None,None,Paid
+6,134,6,2,Paid
+96,45,7,3,Paid
+3,20,None,None,Paid
+39,74,None,None,Paid
+71,95,None,None,Not paid
+16,139,None,None,Paid
+62,87,None,None,Paid
+38,23,None,None,Paid
+27,156,None,None,Paid
+47,150,None,None,Not paid
+73,33,None,None,Paid
+65,113,10,3,Not paid
+57,94,None,None,Paid
+34,45,None,None,Paid
+31,86,None,None,Not paid
+96,111,9,2,Not paid
+96,126,9,1,Paid
+30,184,None,None,Paid
+11,19,6,5,Paid
+1,59,None,None,Not paid
+83,109,None,None,Not paid
+31,123,None,None,Not paid
+2,160,None,None,Paid
+11,153,8,1,Paid
+48,27,None,None,Paid
+35,82,None,None,Not paid
+48,190,None,None,Paid
+68,161,None,None,Paid
+84,139,None,None,Paid
+56,54,None,None,Paid
+20,92,None,None,Not paid
+60,134,5,4,Not paid
+64,186,None,None,Not paid
+33,99,None,None,Not paid
+76,181,None,None,Not paid
+59,68,None,None,Paid
+62,4,None,None,Not paid
+75,193,None,None,Paid
+21,89,5,3,Not paid
+16,140,None,None,Not paid
+29,45,None,None,Paid
+7,37,6,3,Not paid
+42,0,None,None,Paid
+70,131,None,None,Paid
+72,164,7,2,Not paid
+8,194,5,2,Not paid
+53,50,None,None,Not paid
+42,120,None,None,Not paid
+36,90,None,None,Paid
+48,122,None,None,Paid
+86,170,6,5,Paid
+14,34,None,None,Not paid
+0,165,None,None,Paid
+3,182,None,None,Paid
+7,104,10,4,Not paid
+2,174,None,None,Not paid
+15,138,None,None,Paid
+16,116,None,None,Not paid
+26,116,None,None,Not paid
+68,157,None,None,Paid
+8,120,8,5,Not paid
+56,53,None,None,Not paid
+89,78,None,None,Not paid
+44,172,None,None,Paid
+53,19,None,None,Not paid
+0,49,None,None,Paid
+68,135,None,None,Paid
+0,124,None,None,Not paid
+78,38,None,None,Not paid
+90,143,None,None,Paid
+76,194,None,None,Paid
+76,149,None,None,Not paid
+8,189,5,3,Paid
+67,18,None,None,Not paid
+52,30,None,None,Not paid
+95,121,None,None,Paid
+70,112,None,None,Not paid
+22,16,None,None,Paid
+49,12,8,3,Not paid
+54,92,None,None,Paid
+32,93,None,None,Not paid
+97,113,None,None,Not paid
+44,187,None,None,Not paid
+96,47,8,1,Not paid
+21,44,7,4,Not paid
+74,131,None,None,Paid
+25,82,None,None,Not paid
+35,25,None,None,Paid
+55,38,None,None,Paid
+51,8,None,None,Not paid
+69,146,None,None,Paid
+80,74,None,None,Not paid
+51,158,None,None,Paid
+75,127,None,None,Not paid
+78,129,None,None,Paid
+27,19,None,None,Paid
+44,0,None,None,Paid
+59,118,None,None,Paid
+45,30,None,None,Not paid
+94,20,None,None,Not paid
+1,57,None,None,Not paid
+50,0,None,None,Not paid
+66,54,8,1,Not paid
+59,184,None,None,Not paid
+98,155,10,5,Not paid
+85,123,9,4,Not paid
+43,53,None,None,Not paid
+10,17,None,None,Not paid
+66,28,8,2,Not paid
+90,125,None,None,Paid
+13,65,None,None,Paid
+69,0,None,None,Paid
+7,85,9,2,Not paid
+82,13,None,None,Paid
+76,173,None,None,Paid
+52,34,None,None,Paid
+28,181,None,None,Not paid
+35,0,None,None,Paid
+2,12,None,None,Not paid
+41,11,8,4,Paid
+5,146,None,None,Paid
+30,61,None,None,Paid
+68,11,None,None,Not paid
+95,70,None,None,Paid
+51,133,None,None,Not paid
+13,154,None,None,Paid
+7,110,6,4,Not paid
+95,187,None,None,Paid
+1,79,None,None,Not paid
+80,134,None,None,Paid
+30,76,None,None,Paid
+17,56,None,None,Not paid
+29,149,None,None,Not paid
+86,22,10,2,Paid
+97,89,None,None,Paid
+68,196,None,None,Not paid
+9,24,None,None,Not paid
+21,4,8,5,Not paid
+44,141,None,None,Not paid
+50,105,None,None,Paid
+85,149,8,5,Not paid
+83,92,None,None,Not paid
+25,46,None,None,Paid
+82,65,None,None,Paid
+91,27,None,None,Not paid
+23,19,None,None,Not paid
+47,5,None,None,Not paid
+68,154,None,None,Paid
+88,97,None,None,Paid
+33,77,None,None,Not paid
+29,126,None,None,Not paid
+61,154,None,None,Not paid
+62,33,None,None,Paid
+37,37,7,2,Not paid
+37,127,5,1,Not paid
+49,57,7,1,Not paid
+68,134,None,None,Not paid
+74,165,None,None,Not paid
+94,142,None,None,Not paid
+76,45,None,None,Paid
+6,128,6,4,Not paid
+22,197,None,None,Not paid
+87,61,None,None,Paid
+18,100,None,None,Not paid
+54,105,None,None,Not paid
+19,108,8,2,Not paid
+92,106,None,None,Paid
+56,10,None,None,Paid
+53,190,None,None,Not paid
+91,69,None,None,Not paid
+81,176,None,None,Not paid
+26,65,None,None,Paid
+42,149,None,None,Not paid
+38,130,None,None,Paid
+22,155,None,None,Paid
+81,189,None,None,Not paid
+22,49,None,None,Paid
+36,168,None,None,Paid
+49,26,8,4,Not paid
+40,28,None,None,Not paid
+52,45,None,None,Paid
+9,109,None,None,Paid
+22,104,None,None,Paid
+47,80,None,None,Not paid
+84,120,None,None,Not paid
+31,62,None,None,Paid
+31,165,None,None,Not paid
+53,149,None,None,Not paid
+18,102,None,None,Not paid
+1,24,None,None,Paid
+96,72,5,5,Paid
+98,187,7,4,Paid
+2,141,None,None,Not paid
+57,140,None,None,Not paid
+67,97,None,None,Paid
+9,193,None,None,Not paid
+61,48,None,None,Paid
+77,59,None,None,Not paid
+81,35,None,None,Not paid
+74,98,None,None,Paid
+76,3,None,None,Paid
+7,24,10,2,Paid
+29,147,None,None,Paid
+8,73,5,3,Not paid
+2,142,None,None,Paid
+64,161,None,None,Not paid
+63,106,9,3,Not paid
+39,95,None,None,Not paid
+37,182,5,4,Not paid
+71,83,None,None,Not paid
+58,142,5,1,Paid
+11,15,8,4,Paid
+78,56,None,None,Not paid
+94,28,None,None,Not paid
+70,182,None,None,Paid
+29,192,None,None,Paid
+26,30,None,None,Paid
+85,65,9,2,Paid
+68,88,None,None,Paid
+70,184,None,None,Not paid
+23,199,None,None,Not paid
+14,159,None,None,Paid
+46,175,None,None,Not paid
+90,33,None,None,Not paid
+17,126,None,None,Paid
+76,10,None,None,Not paid
+31,197,None,None,Paid
+57,88,None,None,Paid
+72,12,8,4,Paid
+84,111,None,None,Paid
+38,52,None,None,Not paid
+66,151,9,1,Paid
+53,129,None,None,Not paid
+67,158,None,None,Not paid
+41,113,6,1,Not paid
+3,64,None,None,Not paid
+2,111,None,None,Paid
+12,27,None,None,Paid
+76,136,None,None,Not paid
+65,94,9,2,Paid
+38,21,None,None,Not paid
+25,103,None,None,Paid
+72,4,8,1,Paid
+77,86,None,None,Paid
+56,40,None,None,Paid
+97,181,None,None,Paid
+96,96,7,5,Paid
+21,32,5,3,Paid
+86,182,10,1,Paid
+24,186,None,None,Not paid
+5,166,None,None,Not paid
+70,154,None,None,Not paid
+72,184,7,2,Not paid
+25,168,None,None,Paid
+49,171,5,3,Paid
+67,109,None,None,Paid
+80,188,None,None,Paid
+39,4,None,None,Not paid
+80,52,None,None,Not paid
+7,153,10,4,Paid
+52,68,None,None,Not paid
+86,140,9,2,Paid
+24,114,None,None,Not paid
+16,97,None,None,Paid
+32,110,None,None,Paid
+38,186,None,None,Paid
+61,58,None,None,Not paid
+90,1,None,None,Paid
+80,28,None,None,Paid
+38,188,None,None,Not paid
+60,100,9,3,Paid
+71,150,None,None,Not paid
+17,75,None,None,Not paid
+66,15,7,3,Not paid
+60,7,9,4,Not paid
+26,71,None,None,Paid
+2,30,None,None,Paid
+82,63,None,None,Paid
+7,118,6,5,Paid
+7,154,9,5,Paid
+52,69,None,None,Not paid
+81,139,None,None,Not paid
+64,12,None,None,Not paid
+70,163,None,None,Paid
+34,163,None,None,Not paid
+9,49,None,None,Not paid
+0,160,None,None,Paid
+86,162,6,2,Not paid
+45,140,None,None,Paid
+4,147,None,None,Paid
+75,180,None,None,Not paid
+75,118,None,None,Paid
+10,88,None,None,Paid
+45,183,None,None,Not paid
+31,19,None,None,Paid
+91,87,None,None,Not paid
+83,168,None,None,Not paid
+52,136,None,None,Not paid
+7,49,10,1,Not paid
+56,184,None,None,Paid
+85,163,9,1,Paid
+38,109,None,None,Paid
+5,138,None,None,Paid
+24,80,None,None,Not paid
+14,92,None,None,Paid
+57,99,None,None,Not paid
+14,107,None,None,Paid
+60,147,10,3,Not paid
+2,144,None,None,Paid
+13,1,None,None,Not paid
+14,15,None,None,Paid
+23,54,None,None,Not paid
+14,24,None,None,Not paid
+39,56,None,None,Not paid
+28,132,None,None,Not paid
+16,190,None,None,Paid
+94,56,None,None,Paid
+11,100,7,1,Paid
+22,181,None,None,Not paid
+65,123,5,3,Paid
+60,196,7,4,Paid
+68,50,None,None,Paid
+96,14,9,4,Paid
+84,195,None,None,Paid
+70,127,None,None,Not paid
+5,173,None,None,Not paid
+70,138,None,None,Not paid
+20,147,None,None,Paid
+96,94,8,4,Not paid
+63,32,5,5,Paid
+15,147,None,None,Not paid
+6,57,9,4,Not paid
+50,197,None,None,Not paid
+19,6,9,4,Not paid
+64,177,None,None,Not paid
+77,132,None,None,Not paid
+23,168,None,None,Not paid
+19,153,10,1,Not paid
+11,66,5,5,Not paid
+43,170,None,None,Paid
+60,143,6,4,Paid
+77,23,None,None,Paid
+50,182,None,None,Not paid
+72,125,8,2,Not paid
+63,117,7,2,Paid
+65,149,8,2,Not paid
+49,174,5,4,Not paid
+43,147,None,None,Not paid
+30,115,None,None,Not paid
+71,134,None,None,Paid
+73,134,None,None,Not paid
+53,62,None,None,Paid
+21,111,8,2,Paid
+3,141,None,None,Paid
+76,125,None,None,Paid
+83,13,None,None,Paid
+19,126,7,3,Not paid
+88,142,None,None,Not paid
+75,79,None,None,Paid
+89,99,None,None,Paid
+13,81,None,None,Not paid
+47,76,None,None,Not paid
+8,155,10,5,Not paid
+78,120,None,None,Not paid
+69,122,None,None,Paid
+47,93,None,None,Paid
+36,86,None,None,Paid
+76,43,None,None,Not paid
+68,193,None,None,Not paid
+90,29,None,None,Paid
+63,185,7,3,Not paid
+72,171,10,5,Not paid
+21,153,7,4,Not paid
+40,137,None,None,Paid
+95,19,None,None,Paid
+62,118,None,None,Not paid
+0,29,None,None,Paid
+32,117,None,None,Not paid
+79,107,None,None,Paid
+44,150,None,None,Not paid
+57,134,None,None,Not paid
+54,48,None,None,Not paid
+43,62,None,None,Not paid
+80,154,None,None,Paid
+37,47,5,2,Paid
+9,72,None,None,Paid
+99,13,None,None,Not paid
+59,99,None,None,Paid
+59,199,None,None,Not paid
+61,18,None,None,Not paid
+99,57,None,None,Paid
+8,77,5,3,Paid
+34,111,None,None,Paid
+23,7,None,None,Paid
+38,190,None,None,Paid
+11,84,10,1,Not paid
+59,85,None,None,Not paid
+6,11,8,2,Not paid
+84,124,None,None,Not paid
+42,16,None,None,Not paid
+20,23,None,None,Paid
+79,62,None,None,Paid
+77,157,None,None,Paid
+74,97,None,None,Not paid
+22,132,None,None,Not paid
+67,147,None,None,Not paid
+7,151,7,4,Not paid
+97,28,None,None,Not paid
+29,30,None,None,Paid
+48,154,None,None,Paid
+49,196,9,2,Not paid
+31,23,None,None,Paid
+73,191,None,None,Not paid
+44,73,None,None,Not paid
+60,15,10,1,Paid
+12,100,None,None,Not paid
+92,85,None,None,Paid
+71,120,None,None,Paid
+94,198,None,None,Paid
+21,100,8,4,Paid
+52,91,None,None,Paid
+50,142,None,None,Not paid
+13,168,None,None,Not paid
+53,38,None,None,Paid
+38,7,None,None,Paid
+2,91,None,None,Paid
+30,196,None,None,Paid
+79,164,None,None,Not paid
+43,154,None,None,Not paid
+13,83,None,None,Paid
+88,81,None,None,Paid
+8,31,8,2,Not paid
+81,55,None,None,Paid
+37,150,7,2,Not paid
+97,26,None,None,Paid
+15,111,None,None,Paid
+97,107,None,None,Not paid
+3,37,None,None,Paid
+57,163,None,None,Paid
+44,11,None,None,Not paid
+54,160,None,None,Paid
+64,6,None,None,Paid
+89,35,None,None,Not paid
+17,48,None,None,Paid
+38,128,None,None,Paid
+95,148,None,None,Not paid
+78,134,None,None,Not paid
+37,18,8,2,Paid
+76,110,None,None,Not paid
+5,194,None,None,Paid
+69,108,None,None,Not paid
+63,99,8,4,Not paid
+43,115,None,None,Not paid
+82,177,None,None,Paid
+70,148,None,None,Not paid
+89,52,None,None,Paid
+23,29,None,None,Paid
+37,66,7,1,Paid
+93,143,None,None,Paid
+72,88,10,3,Not paid
+86,181,6,5,Not paid
+70,48,None,None,Not paid
+22,31,None,None,Paid
+73,89,None,None,Paid
+62,29,None,None,Paid
+92,28,None,None,Paid
+38,159,None,None,Not paid
+0,184,None,None,Not paid
+86,49,5,5,Paid
+5,28,None,None,Not paid
+33,152,None,None,Paid
+14,71,None,None,Paid
+88,123,None,None,Paid
+36,151,None,None,Paid
+53,58,None,None,Paid
+22,107,None,None,Not paid
+76,55,None,None,Paid
+8,83,7,4,Not paid
+53,29,None,None,Not paid
+94,195,None,None,Not paid
+11,24,8,3,Paid
+64,91,None,None,Not paid
+67,120,None,None,Paid
+69,81,None,None,Not paid
+53,44,None,None,Paid
+71,132,None,None,Paid
+67,20,None,None,Paid
+58,136,10,3,Not paid
+6,183,7,4,Paid
+21,129,8,3,Not paid
+94,173,None,None,Paid
+49,144,5,3,Not paid
+84,129,None,None,Not paid
+81,156,None,None,Paid
+64,3,None,None,Paid
+10,109,None,None,Paid
+44,142,None,None,Not paid
+40,157,None,None,Not paid
+94,43,None,None,Not paid
+46,57,None,None,Paid
+11,150,6,5,Paid
+25,48,None,None,Paid
+19,71,8,2,Not paid
+37,129,7,5,Not paid
+61,125,None,None,Not paid
+78,199,None,None,Paid
+66,160,9,1,Not paid
+42,80,None,None,Paid
+48,10,None,None,Not paid
+1,137,None,None,Paid
+73,182,None,None,Paid
+4,86,None,None,Paid
+94,104,None,None,Paid
+20,63,None,None,Paid
+91,164,None,None,Not paid
+99,179,None,None,Not paid
+20,135,None,None,Not paid
+21,122,6,2,Not paid
+64,24,None,None,Not paid
+20,188,None,None,Not paid
+23,33,None,None,Not paid
+49,85,6,1,Paid
+28,4,None,None,Paid
+25,152,None,None,Not paid
+72,67,8,3,Not paid
+6,87,8,5,Paid
+69,143,None,None,Not paid
+44,198,None,None,Paid
+93,109,None,None,Paid
+78,19,None,None,Not paid
+51,31,None,None,Not paid
+49,121,7,1,Paid
+23,126,None,None,Paid
+16,88,None,None,Not paid
+99,125,None,None,Not paid
+51,35,None,None,Paid
+77,154,None,None,Paid
+46,78,None,None,Not paid
+1,86,None,None,Not paid
+42,147,None,None,Not paid
+73,130,None,None,Not paid
+98,147,6,5,Not paid
+20,38,None,None,Paid
+47,58,None,None,Not paid
+57,10,None,None,Not paid
+79,112,None,None,Paid
+7,179,10,4,Paid
+2,68,None,None,Paid
+35,48,None,None,Not paid
+34,92,None,None,Not paid
+48,126,None,None,Not paid
+4,57,None,None,Not paid
+41,191,9,2,Not paid
+16,184,None,None,Not paid
+57,161,None,None,Not paid
+55,11,None,None,Not paid
+18,164,None,None,Paid
+45,107,None,None,Not paid
+93,45,None,None,Paid
+39,144,None,None,Paid
+30,127,None,None,Paid
+94,83,None,None,Paid
+74,40,None,None,Not paid
+30,125,None,None,Not paid
+25,166,None,None,Paid
+45,129,None,None,Paid
+54,40,None,None,Not paid
+98,27,6,3,Paid
+85,9,6,2,Paid
+9,66,None,None,Not paid
+23,4,None,None,Paid
+45,94,None,None,Not paid
+16,193,None,None,Paid
+69,19,None,None,Paid
+2,145,None,None,Paid
+35,24,None,None,Not paid
+66,83,7,5,Paid
+70,153,None,None,Paid
+1,110,None,None,Paid
+20,15,None,None,Not paid
+32,172,None,None,Paid
+10,186,None,None,Paid
+38,166,None,None,Not paid
+30,138,None,None,Paid
+44,121,None,None,Not paid
+11,0,6,2,Paid
+45,115,None,None,Not paid
+81,41,None,None,Paid
+54,10,None,None,Paid
+75,46,None,None,Paid
+52,189,None,None,Paid
+83,102,None,None,Not paid
+80,110,None,None,Not paid
+78,63,None,None,Paid
+12,36,None,None,Not paid
+18,175,None,None,Paid
+59,71,None,None,Paid
+9,79,None,None,Paid
+32,77,None,None,Paid
+31,199,None,None,Paid
+31,97,None,None,Paid
+3,108,None,None,Not paid
+12,59,None,None,Paid
+15,90,None,None,Not paid
+23,11,None,None,Paid
+8,132,9,2,Paid
+49,35,10,3,Paid
+71,155,None,None,Paid
+40,68,None,None,Not paid
+35,187,None,None,Not paid
+87,50,None,None,Paid
+42,18,None,None,Paid
+2,93,None,None,Not paid
+92,187,None,None,Paid
+33,22,None,None,Not paid
+88,6,None,None,Paid
+12,124,None,None,Not paid
+37,171,9,4,Paid
+30,141,None,None,Not paid
+19,80,9,3,Paid
+94,171,None,None,Paid
+50,176,None,None,Not paid
+83,132,None,None,Paid
+53,110,None,None,Paid
+52,190,None,None,Not paid
+54,122,None,None,Not paid
+44,134,None,None,Not paid
+47,13,None,None,Paid
+4,112,None,None,Not paid
+62,5,None,None,Not paid
+16,122,None,None,Paid
+49,148,9,5,Not paid
+10,150,None,None,Not paid
+95,186,None,None,Not paid
+30,190,None,None,Not paid
+28,66,None,None,Paid
+21,69,6,4,Paid
+93,17,None,None,Not paid
+1,92,None,None,Paid
+95,110,None,None,Paid
+51,126,None,None,Not paid
+81,46,None,None,Not paid
+55,166,None,None,Paid
+69,63,None,None,Not paid
+78,84,None,None,Paid
+8,99,5,2,Not paid
+23,75,None,None,Paid
+82,10,None,None,Not paid
+34,29,None,None,Paid
+82,189,None,None,Not paid
+9,155,None,None,Paid
+12,129,None,None,Paid
+74,162,None,None,Paid
+10,69,None,None,Not paid
+0,138,None,None,Not paid
+33,61,None,None,Not paid
+34,96,None,None,Paid
+36,32,None,None,Paid
+43,55,None,None,Paid
+1,95,None,None,Paid
+43,36,None,None,Not paid
+26,10,None,None,Paid
+8,175,5,3,Not paid
+59,192,None,None,Not paid
+89,119,None,None,Paid
+16,143,None,None,Not paid
+59,185,None,None,Not paid
+74,54,None,None,Paid
+30,197,None,None,Paid
+28,16,None,None,Paid
+15,188,None,None,Not paid
+13,120,None,None,Not paid
+94,191,None,None,Paid
+7,142,8,3,Paid
+90,162,None,None,Not paid
+87,142,None,None,Not paid
+51,47,None,None,Not paid
+85,75,9,2,Not paid
+37,31,7,3,Paid
+49,50,10,5,Paid
+0,64,None,None,Paid
+45,19,None,None,Not paid
+49,112,7,5,Not paid
+32,131,None,None,Not paid
+70,53,None,None,Paid
+56,17,None,None,Not paid
+78,96,None,None,Paid
+17,163,None,None,Paid
+6,62,7,5,Paid
+78,61,None,None,Paid
+73,2,None,None,Not paid
+44,7,None,None,Not paid
+63,15,7,5,Not paid
+22,75,None,None,Not paid
+68,29,None,None,Paid
+92,72,None,None,Not paid
+98,171,10,3,Paid
+46,137,None,None,Paid
+97,91,None,None,Not paid
+33,169,None,None,Not paid
+3,2,None,None,Paid
+24,65,None,None,Paid
+2,147,None,None,Paid
+82,16,None,None,Not paid
+80,142,None,None,Not paid
+38,93,None,None,Paid
+0,150,None,None,Paid
+70,27,None,None,Paid
+71,183,None,None,Paid
+17,0,None,None,Paid
+7,73,10,5,Not paid
+98,125,7,4,Paid
+37,126,7,1,Not paid
+6,97,7,3,Paid
+21,134,8,1,Paid
+22,129,None,None,Not paid
+46,144,None,None,Paid
+20,138,None,None,Not paid
+39,85,None,None,Paid
+94,159,None,None,Paid
+30,43,None,None,Not paid
+21,180,5,4,Not paid
+71,139,None,None,Paid
+51,4,None,None,Paid
+75,62,None,None,Paid
+68,48,None,None,Not paid
+72,49,5,1,Not paid
+99,36,None,None,Not paid
+22,174,None,None,Paid
+32,72,None,None,Paid
+60,39,7,1,Not paid
+62,121,None,None,Not paid
+66,105,7,4,Not paid
+85,28,5,4,Paid
+39,173,None,None,Paid
+8,69,7,3,Paid
+8,150,8,4,Not paid
+90,2,None,None,Not paid
+18,126,None,None,Paid
+16,170,None,None,Not paid
+88,146,None,None,Not paid
+89,72,None,None,Not paid
+79,183,None,None,Not paid
+21,132,10,5,Paid
+32,181,None,None,Not paid
+18,157,None,None,Not paid
+91,22,None,None,Paid
+54,14,None,None,Paid
+50,134,None,None,Not paid
+22,151,None,None,Paid
+6,22,7,3,Not paid
+76,69,None,None,Paid
+81,161,None,None,Not paid
+84,105,None,None,Paid
+59,182,None,None,Not paid
+90,24,None,None,Paid
+41,152,8,4,Paid
+0,83,None,None,Not paid
+66,49,7,1,Not paid
+23,92,None,None,Not paid
+58,169,8,1,Not paid
+84,79,None,None,Not paid
+72,169,9,5,Not paid
+21,73,10,3,Paid
+82,155,None,None,Paid
+10,105,None,None,Not paid
+82,86,None,None,Paid
+96,119,5,3,Paid
+46,171,None,None,Paid
+47,63,None,None,Paid
+56,162,None,None,Not paid
+39,139,None,None,Not paid
+9,15,None,None,Not paid
+76,132,None,None,Not paid
+69,50,None,None,Not paid
+25,86,None,None,Paid
+91,65,None,None,Not paid
+75,78,None,None,Not paid
+24,52,None,None,Not paid
+30,163,None,None,Not paid
+32,190,None,None,Paid
+95,140,None,None,Not paid
+19,123,7,2,Not paid
+3,134,None,None,Not paid
+66,100,6,1,Not paid
+34,172,None,None,Not paid
+77,164,None,None,Paid
+48,97,None,None,Paid
+42,133,None,None,Paid
+53,18,None,None,Paid
+30,66,None,None,Paid
+30,26,None,None,Not paid
+50,87,None,None,Not paid
+65,80,5,4,Paid
+19,88,7,1,Paid
+7,198,10,1,Paid
+59,94,None,None,Not paid
+37,153,7,1,Paid
+29,62,None,None,Paid
+4,194,None,None,Not paid
+40,75,None,None,Paid
+22,52,None,None,Paid
+38,39,None,None,Paid
+38,149,None,None,Not paid
+20,11,None,None,Not paid
+59,138,None,None,Not paid
+99,77,None,None,Not paid
+35,95,None,None,Paid
+22,40,None,None,Not paid
+21,101,9,4,Paid
+18,119,None,None,Not paid
+38,146,None,None,Paid
+49,80,9,4,Paid
+24,0,None,None,Not paid
+8,59,9,2,Not paid
+67,52,None,None,Not paid
+60,104,6,1,Paid
+61,103,None,None,Not paid
+40,179,None,None,Not paid
+41,183,5,5,Paid
+78,74,None,None,Paid
+39,168,None,None,Paid
+31,136,None,None,Paid
+20,118,None,None,Paid
+15,16,None,None,Not paid
+65,32,6,5,Paid
+88,68,None,None,Not paid
+41,59,9,2,Paid
+6,86,7,2,Not paid
+31,164,None,None,Paid
+63,188,10,1,Paid
+69,127,None,None,Paid
+96,107,7,2,Not paid
+75,150,None,None,Not paid
+49,29,8,1,Not paid
+32,106,None,None,Paid
+53,191,None,None,Paid
+85,115,8,5,Not paid
+22,83,None,None,Not paid
+53,72,None,None,Paid
+90,69,None,None,Paid
+68,89,None,None,Paid
+97,67,None,None,Paid
+88,45,None,None,Not paid
+48,191,None,None,Not paid
+30,64,None,None,Paid
+95,193,None,None,Paid
+32,191,None,None,Paid
+3,116,None,None,Paid
+4,80,None,None,Paid
+28,84,None,None,Paid
+97,182,None,None,Paid
+73,161,None,None,Not paid
+6,92,7,5,Not paid
+22,196,None,None,Not paid
+44,151,None,None,Not paid
+29,133,None,None,Paid
+55,66,None,None,Paid
+98,101,5,4,Not paid
+97,71,None,None,Paid
+80,16,None,None,Paid
+7,134,8,5,Not paid
+98,69,7,5,Paid
+78,20,None,None,Paid
+64,108,None,None,Paid
+50,29,None,None,Not paid
+26,105,None,None,Paid
+57,7,None,None,Not paid
+56,61,None,None,Paid
+2,186,None,None,Paid
+60,98,10,1,Paid
+4,164,None,None,Not paid
+86,179,5,4,Not paid
+3,117,None,None,Paid
+32,159,None,None,Paid
+33,113,None,None,Paid
+70,62,None,None,Paid
+50,40,None,None,Paid
+14,27,None,None,Not paid
+16,86,None,None,Not paid
+41,22,5,5,Not paid
+13,46,None,None,Paid
+73,87,None,None,Not paid
+64,0,None,None,Not paid
+65,54,7,4,Paid
+31,185,None,None,Paid
+35,113,None,None,Not paid
+62,190,None,None,Not paid
+52,54,None,None,Not paid
+85,135,8,2,Not paid
+33,28,None,None,Paid
+58,123,6,3,Paid
+58,19,9,2,Not paid
+16,70,None,None,Not paid
+52,192,None,None,Paid
+26,78,None,None,Not paid
+65,59,9,1,Paid
+98,109,5,2,Paid
+64,151,None,None,Not paid
+83,79,None,None,Paid
+3,91,None,None,Paid
+34,65,None,None,Paid
+22,178,None,None,Paid
+29,58,None,None,Paid
+13,73,None,None,Paid
+34,150,None,None,Not paid
+45,103,None,None,Paid
+63,58,9,2,Paid
+49,168,7,1,Not paid
+75,34,None,None,Paid
+61,144,None,None,Paid
+23,74,None,None,Paid
+4,36,None,None,Paid
+98,148,8,3,Paid
+24,13,None,None,Paid
+65,195,9,2,Paid
+19,66,6,3,Not paid
+81,51,None,None,Not paid
+2,167,None,None,Paid
+94,123,None,None,Paid
+18,35,None,None,Not paid
+92,82,None,None,Not paid
+34,76,None,None,Paid
+92,33,None,None,Not paid
+16,133,None,None,Paid
+53,1,None,None,Not paid
+11,106,6,5,Not paid
+58,95,6,1,Paid
+38,180,None,None,Paid
+50,71,None,None,Not paid
+52,186,None,None,Not paid
+70,50,None,None,Not paid
+16,136,None,None,Paid
+92,107,None,None,Not paid
+19,196,10,4,Not paid
+98,46,8,2,Paid
+38,118,None,None,Paid
+83,1,None,None,Not paid
+68,28,None,None,Paid
+63,196,7,3,Paid
+71,61,None,None,Paid
+90,54,None,None,Not paid
+93,88,None,None,Not paid
+92,162,None,None,Paid
+53,82,None,None,Paid
+14,36,None,None,Paid
+36,97,None,None,Paid
+9,102,None,None,Not paid
+63,160,5,3,Not paid
+23,167,None,None,Not paid
+75,95,None,None,Not paid
+25,156,None,None,Paid
+84,135,None,None,Not paid
+88,150,None,None,Paid
+1,76,None,None,Not paid
+55,20,None,None,Not paid
+68,181,None,None,Not paid
+95,78,None,None,Not paid
+48,56,None,None,Paid
+5,102,None,None,Paid
+57,0,None,None,Paid
+49,170,7,5,Paid
+35,150,None,None,Not paid
+56,84,None,None,Not paid
+14,22,None,None,Not paid
+84,117,None,None,Paid
+81,197,None,None,Paid
+10,151,None,None,Paid
+75,125,None,None,Paid
+45,69,None,None,Paid
+15,119,None,None,Paid
+22,96,None,None,Paid
+82,152,None,None,Paid
+66,175,10,4,Paid
+11,144,9,1,Paid
+31,24,None,None,Paid
+21,90,5,5,Paid
+62,173,None,None,Paid
+15,81,None,None,Paid
+37,141,6,3,Not paid
+55,76,None,None,Not paid
+16,168,None,None,Not paid
+46,25,None,None,Paid
+86,24,10,3,Paid
+65,155,10,5,Not paid
+13,27,None,None,Not paid
+67,78,None,None,Paid
+73,171,None,None,Not paid
+1,34,None,None,Not paid
+66,9,5,1,Paid
+30,98,None,None,Not paid
+58,86,6,3,Paid
+77,192,None,None,Paid
+22,157,None,None,Not paid
+36,158,None,None,Paid
+77,61,None,None,Not paid
+4,184,None,None,Not paid
+20,78,None,None,Paid
+70,91,None,None,Not paid
+76,163,None,None,Paid
+97,169,None,None,Paid
+73,5,None,None,Paid
+36,160,None,None,Paid
+46,114,None,None,Not paid
+73,66,None,None,Not paid
+95,53,None,None,Paid
+56,133,None,None,Paid
+32,122,None,None,Not paid
+17,87,None,None,Paid
+16,65,None,None,Paid
+38,72,None,None,Not paid
+71,0,None,None,Paid
+32,59,None,None,Not paid
+9,165,None,None,Not paid
+86,184,7,2,Not paid
+99,0,None,None,Paid
+98,90,8,3,Not paid
+64,119,None,None,Paid
+74,134,None,None,Paid
+97,161,None,None,Not paid
+42,5,None,None,Not paid
+93,73,None,None,Paid
+17,161,None,None,Not paid
+20,41,None,None,Paid
+70,11,None,None,Paid
+97,92,None,None,Not paid
+91,49,None,None,Not paid
+85,0,10,3,Not paid
+40,44,None,None,Not paid
+95,127,None,None,Paid
+60,158,7,4,Paid
+19,154,5,3,Not paid
+37,17,5,5,Not paid
+15,180,None,None,Not paid
+84,30,None,None,Not paid
+76,93,None,None,Paid
+66,89,7,2,Not paid
+80,10,None,None,Paid
+91,134,None,None,Paid
+77,163,None,None,Not paid
+80,13,None,None,Not paid
+7,83,10,4,Paid
+34,58,None,None,Paid
+94,179,None,None,Paid
+47,171,None,None,Not paid
+65,153,10,5,Not paid
+98,74,6,3,Not paid
+94,71,None,None,Paid
+11,97,7,2,Paid
+32,20,None,None,Not paid
+20,42,None,None,Not paid
+43,40,None,None,Not paid
+76,183,None,None,Paid
+97,177,None,None,Not paid
+15,87,None,None,Paid
+67,61,None,None,Not paid
+16,195,None,None,Not paid
+88,22,None,None,Not paid
+92,189,None,None,Paid
+36,172,None,None,Not paid
+17,102,None,None,Paid
+94,190,None,None,Paid
+3,195,None,None,Paid
+60,122,7,1,Paid
+62,77,None,None,Paid
+9,19,None,None,Not paid
+99,132,None,None,Not paid
+75,31,None,None,Not paid
+23,135,None,None,Paid
+98,3,9,3,Not paid
+19,189,5,3,Not paid
+98,110,6,5,Paid
+94,33,None,None,Not paid
+91,54,None,None,Paid
+20,128,None,None,Not paid
+99,48,None,None,Not paid
+97,118,None,None,Paid
+67,111,None,None,Not paid
+76,21,None,None,Paid
+34,10,None,None,Not paid
+16,29,None,None,Paid
+35,64,None,None,Not paid
+85,62,6,5,Not paid
+27,85,None,None,Paid
+10,116,None,None,Paid
+85,148,5,3,Paid
+97,41,None,None,Paid
+96,11,6,5,Paid
+7,9,9,4,Paid
+30,132,None,None,Not paid
+35,81,None,None,Paid
+34,22,None,None,Not paid
+37,159,10,1,Not paid
+90,57,None,None,Paid
+47,16,None,None,Not paid
+10,180,None,None,Paid
+8,39,9,3,Paid
+92,80,None,None,Not paid
+50,76,None,None,Paid
+59,4,None,None,Paid
+8,30,7,1,Paid
+66,34,9,2,Not paid
+3,125,None,None,Paid
+34,87,None,None,Paid
+33,102,None,None,Paid
+41,51,10,2,Paid
+17,129,None,None,Not paid
+18,104,None,None,Not paid
+24,3,None,None,Not paid
+85,46,8,3,Not paid
+68,115,None,None,Paid
+97,151,None,None,Paid
+95,179,None,None,Not paid
+18,109,None,None,Not paid
+95,61,None,None,Not paid
+98,65,8,3,Not paid
+74,111,None,None,Not paid
+57,66,None,None,Paid
+66,39,7,5,Not paid
+47,192,None,None,Paid
+94,193,None,None,Not paid
+37,113,7,1,Not paid
+93,160,None,None,Paid
+46,74,None,None,Paid
+71,40,None,None,Not paid
+82,29,None,None,Not paid
+71,86,None,None,Not paid
+85,112,10,1,Paid
+89,110,None,None,Not paid
+54,107,None,None,Paid
+81,199,None,None,Paid
+51,98,None,None,Not paid
+39,7,None,None,Paid
+99,60,None,None,Not paid
+33,121,None,None,Not paid
+95,128,None,None,Not paid
+63,131,10,1,Paid
+43,57,None,None,Not paid
+45,74,None,None,Not paid
+99,33,None,None,Not paid
+70,28,None,None,Paid
+24,43,None,None,Not paid
+50,144,None,None,Paid
+19,87,8,2,Not paid
+1,2,None,None,Not paid
+50,143,None,None,Paid
+17,115,None,None,Not paid
+8,183,6,1,Paid
+93,51,None,None,Paid
+36,4,None,None,Paid
+14,8,None,None,Not paid
+70,162,None,None,Not paid
+19,163,7,2,Not paid
+65,46,9,4,Paid
+62,112,None,None,Paid
+20,106,None,None,Paid
+87,9,None,None,Paid
+74,148,None,None,Not paid
+65,163,5,5,Not paid
+71,11,None,None,Not paid
+21,157,6,5,Paid
+93,135,None,None,Not paid
+7,40,10,1,Paid
+70,90,None,None,Not paid
+72,98,6,2,Not paid
+61,78,None,None,Not paid
+47,31,None,None,Not paid
+81,6,None,None,Not paid
+53,157,None,None,Paid
+1,72,None,None,Not paid
+38,136,None,None,Not paid
+31,180,None,None,Not paid
+72,135,9,4,Paid
+71,192,None,None,Paid
+30,158,None,None,Paid
+2,133,None,None,Paid
+22,33,None,None,Not paid
+59,65,None,None,Paid
+22,46,None,None,Not paid
+61,62,None,None,Not paid
+75,84,None,None,Paid
+42,74,None,None,Not paid
+12,45,None,None,Not paid
+86,84,8,5,Paid
+95,9,None,None,Not paid
+98,146,9,4,Not paid
+10,48,None,None,Paid
+81,162,None,None,Not paid
+46,121,None,None,Paid
+74,184,None,None,Paid
+11,32,8,5,Not paid
+11,86,7,1,Not paid
+5,48,None,None,Paid
+69,43,None,None,Not paid
+47,118,None,None,Not paid
+57,64,None,None,Paid
+87,72,None,None,Not paid
+3,29,None,None,Not paid
+84,141,None,None,Paid
+15,191,None,None,Not paid
+3,17,None,None,Paid
+49,45,7,3,Not paid
+56,91,None,None,Paid
+27,54,None,None,Not paid
+79,138,None,None,Not paid
+86,196,9,3,Paid
+21,47,8,5,Paid
+55,150,None,None,Not paid
+70,107,None,None,Not paid
+6,173,8,1,Paid
+82,31,None,None,Paid
+48,175,None,None,Not paid
+36,63,None,None,Paid
+62,126,None,None,Not paid
+88,114,None,None,Paid
+5,163,None,None,Not paid
+16,164,None,None,Not paid
+84,145,None,None,Paid
+46,77,None,None,Not paid
+47,59,None,None,Paid
+0,8,None,None,Not paid
+42,69,None,None,Not paid
+18,38,None,None,Paid
+11,75,8,1,Not paid
+21,68,9,5,Not paid
+69,178,None,None,Not paid
+7,0,6,4,Not paid
+33,76,None,None,Paid
+74,149,None,None,Paid
+84,22,None,None,Paid
+21,98,10,5,Paid
+38,41,None,None,Not paid
+37,93,10,1,Not paid
+40,167,None,None,Not paid
+68,128,None,None,Paid
+82,54,None,None,Not paid
+82,197,None,None,Not paid
+57,188,None,None,Paid
+83,142,None,None,Paid
+72,68,7,3,Paid
+34,151,None,None,Paid
+38,121,None,None,Paid
+12,80,None,None,Paid
+62,182,None,None,Paid
+69,1,None,None,Paid
+69,148,None,None,Not paid
+35,66,None,None,Not paid
+95,189,None,None,Paid
+44,82,None,None,Not paid
+99,184,None,None,Not paid
+26,54,None,None,Not paid
+36,62,None,None,Paid
+87,16,None,None,Not paid
+57,124,None,None,Paid
+94,45,None,None,Not paid
+25,62,None,None,Not paid
+17,112,None,None,Paid
+39,117,None,None,Not paid
+44,86,None,None,Not paid
+41,135,10,1,Paid
+50,193,None,None,Not paid
+36,129,None,None,Not paid
+59,122,None,None,Paid
+31,57,None,None,Paid
+84,62,None,None,Not paid
+52,126,None,None,Not paid
+70,23,None,None,Not paid
+51,68,None,None,Not paid
+77,58,None,None,Not paid
+14,190,None,None,Paid
+73,172,None,None,Paid
+84,43,None,None,Paid
+93,41,None,None,Not paid
+42,67,None,None,Paid
+53,68,None,None,Not paid
+56,163,None,None,Not paid
+22,158,None,None,Paid
+89,132,None,None,Paid
+77,89,None,None,Not paid
+95,185,None,None,Not paid
+14,57,None,None,Not paid
+9,18,None,None,Not paid
+71,36,None,None,Paid
+64,169,None,None,Not paid
+70,116,None,None,Paid
+87,93,None,None,Not paid
+13,60,None,None,Not paid
+27,140,None,None,Not paid
+70,63,None,None,Paid
+83,11,None,None,Not paid
+88,0,None,None,Paid
+55,80,None,None,Not paid
+28,193,None,None,Not paid
+40,120,None,None,Paid
+49,73,7,4,Not paid
+95,176,None,None,Paid
+35,190,None,None,Not paid
+80,73,None,None,Paid
+75,70,None,None,Paid
+63,172,10,4,Paid
+71,58,None,None,Not paid
+93,154,None,None,Paid
+87,180,None,None,Paid
+17,196,None,None,Not paid
+77,113,None,None,Paid
+97,31,None,None,Paid
+70,14,None,None,Not paid
+78,128,None,None,Not paid
+50,196,None,None,Paid
+20,13,None,None,Not paid
+36,111,None,None,Not paid
+46,179,None,None,Paid
+99,166,None,None,Not paid
+54,197,None,None,Paid
+54,23,None,None,Paid
+58,120,10,2,Paid
+92,4,None,None,Not paid
+65,33,10,2,Not paid
+63,60,8,1,Not paid
+15,130,None,None,Paid
+22,135,None,None,Paid
+87,94,None,None,Not paid
+73,141,None,None,Paid
+51,127,None,None,Paid
+5,5,None,None,Not paid
+65,55,6,1,Not paid
+37,0,6,4,Not paid
+42,199,None,None,Paid
+10,163,None,None,Paid
+20,90,None,None,Paid
+64,13,None,None,Not paid
+1,168,None,None,Not paid
+14,17,None,None,Not paid
+63,184,7,2,Paid
+57,160,None,None,Not paid
+58,3,7,1,Paid
+43,171,None,None,Not paid
+50,161,None,None,Paid
+47,104,None,None,Not paid
+2,134,None,None,Paid
+47,105,None,None,Not paid
+86,16,9,5,Not paid
+74,6,None,None,Paid
+9,199,None,None,Not paid
+51,182,None,None,Paid
+23,93,None,None,Paid
+82,8,None,None,Not paid
+68,4,None,None,Paid
+79,37,None,None,Paid
+16,173,None,None,Paid
+7,155,9,1,Not paid
+69,40,None,None,Paid
+32,140,None,None,Not paid
+34,25,None,None,Not paid
+16,42,None,None,Not paid
+95,84,None,None,Not paid
+52,59,None,None,Not paid
+65,189,10,1,Not paid
+36,134,None,None,Not paid
+66,128,9,4,Not paid
+8,92,8,4,Paid
+36,133,None,None,Paid
+75,17,None,None,Not paid
+32,37,None,None,Paid
+30,156,None,None,Not paid
+50,135,None,None,Not paid
+41,77,10,1,Paid
+24,141,None,None,Not paid
+77,134,None,None,Paid
+62,122,None,None,Paid
+7,190,6,2,Not paid
+77,179,None,None,Not paid
+49,14,8,2,Not paid
+20,142,None,None,Paid
+24,153,None,None,Not paid
+54,147,None,None,Paid
+0,108,None,None,Paid
+11,116,5,5,Paid
+21,83,5,1,Not paid
+10,106,None,None,Not paid
+14,114,None,None,Not paid
+14,50,None,None,Paid
+76,38,None,None,Paid
+10,70,None,None,Not paid
+94,9,None,None,Not paid
+40,55,None,None,Paid
+30,191,None,None,Paid
+46,37,None,None,Paid
+74,140,None,None,Paid
+73,74,None,None,Paid
+7,30,5,4,Paid
+59,25,None,None,Not paid
+20,7,None,None,Paid
+97,16,None,None,Not paid
+3,140,None,None,Paid
+99,64,None,None,Paid
+28,85,None,None,Not paid
+44,69,None,None,Not paid
+63,197,10,5,Paid
+9,163,None,None,Not paid
+21,42,7,1,Paid
+69,120,None,None,Paid
+11,37,5,4,Not paid
+53,94,None,None,Not paid
+43,164,None,None,Paid
+10,13,None,None,Not paid
+6,41,10,2,Not paid
+34,84,None,None,Not paid
+48,59,None,None,Not paid
+36,180,None,None,Paid
+49,108,5,2,Paid
+12,88,None,None,Not paid
+31,72,None,None,Not paid
+48,105,None,None,Paid
+1,1,None,None,Not paid
+73,65,None,None,Paid
+25,92,None,None,Paid
+64,42,None,None,Not paid
+55,156,None,None,Not paid
+56,168,None,None,Not paid
+59,21,None,None,Paid
+49,159,9,3,Paid
+60,5,7,3,Paid
+1,32,None,None,Not paid
+61,104,None,None,Paid
+7,76,7,4,Not paid
+55,186,None,None,Paid
+15,177,None,None,Paid
+26,150,None,None,Paid
+95,11,None,None,Paid
+70,134,None,None,Paid
+63,4,5,1,Paid
+74,62,None,None,Paid
+47,21,None,None,Paid
+41,63,10,5,Not paid
+2,159,None,None,Not paid
+59,147,None,None,Paid
+13,105,None,None,Not paid
+6,64,9,5,Paid
+74,60,None,None,Not paid
+5,53,None,None,Paid
+99,79,None,None,Paid
+52,19,None,None,Not paid
+45,166,None,None,Not paid
+67,92,None,None,Not paid
+22,172,None,None,Not paid
+93,187,None,None,Paid
+44,130,None,None,Not paid
+76,83,None,None,Not paid
+8,197,9,5,Paid
+55,159,None,None,Not paid
+46,104,None,None,Not paid
+18,79,None,None,Paid
+43,7,None,None,Paid
+27,0,None,None,Paid
+76,33,None,None,Paid
+81,181,None,None,Not paid
+62,12,None,None,Paid
+95,85,None,None,Paid
+66,32,5,5,Not paid
+35,19,None,None,Paid
+23,52,None,None,Not paid
+84,19,None,None,Not paid
+75,35,None,None,Not paid
+51,103,None,None,Not paid
+54,174,None,None,Not paid
+43,63,None,None,Not paid
+93,43,None,None,Not paid
+28,5,None,None,Not paid
+42,132,None,None,Paid
+70,51,None,None,Paid
+66,68,7,4,Not paid
+80,153,None,None,Paid
+65,78,9,2,Not paid
+45,43,None,None,Paid
+23,6,None,None,Not paid
+11,54,6,5,Not paid
+18,123,None,None,Paid
+75,6,None,None,Not paid
+38,64,None,None,Not paid
+44,52,None,None,Not paid
+88,149,None,None,Paid
+47,12,None,None,Not paid
+67,127,None,None,Paid
+68,171,None,None,Not paid
+74,183,None,None,Paid
+36,156,None,None,Not paid
+27,130,None,None,Not paid
+42,175,None,None,Paid
+38,34,None,None,Not paid
+12,104,None,None,Paid
+22,138,None,None,Not paid
+58,127,8,5,Paid
+64,55,None,None,Not paid
+71,47,None,None,Not paid
+87,184,None,None,Not paid
+62,104,None,None,Paid
+95,154,None,None,Not paid
+55,153,None,None,Not paid
+98,54,7,3,Paid
+10,101,None,None,Not paid
+81,157,None,None,Paid
+41,115,6,2,Not paid
+33,130,None,None,Paid
+0,198,None,None,Not paid
+88,153,None,None,Paid
+28,174,None,None,Not paid
+25,68,None,None,Paid
+20,110,None,None,Paid
+14,88,None,None,Not paid
+40,7,None,None,Not paid
+55,57,None,None,Paid
+69,101,None,None,Not paid
+3,58,None,None,Not paid
+53,141,None,None,Paid
+62,73,None,None,Paid
+70,36,None,None,Paid
+64,173,None,None,Not paid
+75,196,None,None,Not paid
+29,26,None,None,Not paid
+31,89,None,None,Not paid
+32,133,None,None,Paid
+79,160,None,None,Not paid
+33,111,None,None,Not paid
+28,148,None,None,Not paid
+64,159,None,None,Not paid
+69,60,None,None,Not paid
+35,60,None,None,Paid
+98,150,6,4,Not paid
+67,162,None,None,Not paid
+31,192,None,None,Paid
+87,74,None,None,Not paid
+13,71,None,None,Not paid
+11,76,5,1,Paid
+39,33,None,None,Paid
+52,163,None,None,Not paid
+9,3,None,None,Not paid
+31,142,None,None,Not paid
+65,136,8,3,Paid
+38,31,None,None,Not paid
+0,80,None,None,Paid
+95,67,None,None,Paid
+7,5,8,4,Paid
+3,106,None,None,Not paid
+99,101,None,None,Paid
+59,137,None,None,Paid
+78,79,None,None,Paid
+5,178,None,None,Paid
+75,149,None,None,Not paid
+67,58,None,None,Paid
+87,177,None,None,Paid
+8,115,10,1,Paid
+54,77,None,None,Paid
+90,112,None,None,Paid
+68,25,None,None,Not paid
+45,189,None,None,Paid
+97,166,None,None,Not paid
+77,9,None,None,Paid
+84,93,None,None,Not paid
+72,38,10,3,Paid
+79,179,None,None,Not paid
+0,193,None,None,Not paid
+38,74,None,None,Not paid
+13,99,None,None,Paid
+36,170,None,None,Paid
+70,181,None,None,Not paid
+46,193,None,None,Not paid
+94,126,None,None,Paid
+51,147,None,None,Paid
+84,150,None,None,Paid
+89,134,None,None,Not paid
+26,135,None,None,Not paid
+58,31,6,2,Not paid
+99,50,None,None,Not paid
+6,138,8,5,Paid
+49,5,6,3,Paid
+84,40,None,None,Paid
+7,61,9,3,Paid
+44,80,None,None,Not paid
+17,168,None,None,Paid
+96,162,9,3,Not paid
+45,126,None,None,Not paid
+47,144,None,None,Paid
+75,97,None,None,Not paid
+82,102,None,None,Paid
+40,198,None,None,Paid
+89,188,None,None,Paid
+92,19,None,None,Not paid
+72,73,7,5,Paid
+43,183,None,None,Paid
+62,57,None,None,Not paid
+45,172,None,None,Paid
+42,159,None,None,Paid
+58,141,6,5,Not paid
+48,77,None,None,Paid
+35,33,None,None,Not paid
+59,60,None,None,Not paid
+31,178,None,None,Paid
+62,131,None,None,Paid
+83,22,None,None,Not paid
+63,86,5,4,Paid
+24,196,None,None,Not paid
+62,170,None,None,Not paid
+6,34,6,2,Not paid
+75,132,None,None,Paid
+93,97,None,None,Not paid
+40,150,None,None,Paid
+71,22,None,None,Not paid
+87,104,None,None,Paid
+6,114,8,4,Not paid
+74,21,None,None,Paid
+47,140,None,None,Not paid
+50,115,None,None,Paid
+64,84,None,None,Not paid
+56,155,None,None,Paid
+73,49,None,None,Not paid
+22,127,None,None,Not paid
+24,84,None,None,Paid
+2,117,None,None,Not paid
+73,42,None,None,Not paid
+56,3,None,None,Not paid
+88,129,None,None,Paid
+34,53,None,None,Not paid
+62,119,None,None,Not paid
+10,162,None,None,Paid
+16,167,None,None,Paid
+29,2,None,None,Paid
+6,110,6,4,Not paid
+76,73,None,None,Not paid
+76,113,None,None,Not paid
+52,105,None,None,Paid
+27,7,None,None,Paid
+15,36,None,None,Paid
+47,66,None,None,Paid
+85,169,6,2,Not paid
+59,37,None,None,Not paid
+63,157,7,1,Paid
+61,92,None,None,Not paid
+89,178,None,None,Paid
+51,180,None,None,Not paid
+95,81,None,None,Not paid
+7,184,6,2,Not paid
+82,123,None,None,Paid
+68,129,None,None,Paid
+48,87,None,None,Paid
+54,161,None,None,Paid
+82,3,None,None,Not paid
+94,82,None,None,Not paid
+48,162,None,None,Not paid
+97,138,None,None,Not paid
+86,54,8,3,Not paid
+27,132,None,None,Not paid
+68,158,None,None,Not paid
+50,194,None,None,Not paid
+39,116,None,None,Paid
+92,166,None,None,Not paid
+74,52,None,None,Not paid
+98,130,8,3,Not paid
+77,14,None,None,Paid
+86,70,10,5,Paid
+4,130,None,None,Not paid
+72,27,8,4,Paid
+73,125,None,None,Paid
+72,19,9,2,Not paid
+44,122,None,None,Paid
+73,20,None,None,Paid
+14,120,None,None,Not paid
+98,114,8,3,Paid
+13,185,None,None,Paid
+65,36,10,4,Not paid
+79,25,None,None,Not paid
+62,84,None,None,Paid
+56,24,None,None,Paid
+84,131,None,None,Paid
+26,83,None,None,Not paid
+78,33,None,None,Not paid
+12,122,None,None,Not paid
+99,102,None,None,Not paid
+84,157,None,None,Not paid
+27,193,None,None,Paid
+75,64,None,None,Paid
+67,21,None,None,Paid
+30,107,None,None,Not paid
+6,178,6,2,Not paid
+86,150,7,4,Not paid
+37,111,9,4,Paid
+6,175,5,3,Not paid
+54,188,None,None,Not paid
+48,171,None,None,Not paid
+60,95,8,3,Paid
+80,126,None,None,Not paid
+29,120,None,None,Not paid
+39,6,None,None,Paid
+73,88,None,None,Paid
+49,151,5,4,Not paid
+60,126,10,1,Paid
+10,22,None,None,Not paid
+63,94,9,3,Not paid
+91,5,None,None,Paid
+95,41,None,None,Paid
+60,117,7,5,Not paid
+36,120,None,None,Not paid
+10,47,None,None,Paid
+25,176,None,None,Paid
+33,64,None,None,Not paid
+78,145,None,None,Not paid
+89,182,None,None,Not paid
+59,47,None,None,Paid
+26,154,None,None,Paid
+28,75,None,None,Paid
+80,95,None,None,Not paid
+0,21,None,None,Paid
+97,73,None,None,Paid
+25,140,None,None,Not paid
+54,111,None,None,Paid
+74,103,None,None,Paid
+76,109,None,None,Not paid
+25,119,None,None,Not paid
+61,8,None,None,Paid
+68,64,None,None,Not paid
+77,60,None,None,Not paid
+24,17,None,None,Not paid
+73,128,None,None,Not paid
+3,69,None,None,Paid
+40,170,None,None,Not paid
+30,6,None,None,Not paid
+31,146,None,None,Not paid
+66,107,10,1,Not paid
+34,70,None,None,Paid
+19,89,10,4,Paid
+21,126,6,1,Paid
+20,108,None,None,Not paid
+51,81,None,None,Paid
+58,113,9,3,Not paid
+53,57,None,None,Paid
+20,153,None,None,Not paid
+8,159,6,2,Not paid
+96,187,9,1,Paid
+93,82,None,None,Paid
+6,122,10,1,Paid
+28,199,None,None,Paid
+63,5,5,4,Not paid
+24,191,None,None,Not paid
+56,34,None,None,Not paid
+10,193,None,None,Not paid
+26,47,None,None,Paid
+67,57,None,None,Not paid
+36,152,None,None,Not paid
+15,49,None,None,Not paid
+71,52,None,None,Paid
+20,89,None,None,Not paid
+48,198,None,None,Paid
+89,150,None,None,Paid
+55,132,None,None,Not paid
+65,34,6,3,Not paid
+33,88,None,None,Not paid
+46,14,None,None,Not paid
+37,12,5,5,Not paid
+40,11,None,None,Paid
+1,163,None,None,Paid
+0,157,None,None,Not paid
+39,191,None,None,Paid
+91,130,None,None,Not paid
+73,69,None,None,Paid
+57,198,None,None,Not paid
+65,76,5,2,Paid
+4,169,None,None,Not paid
+4,141,None,None,Paid
+63,174,10,2,Not paid
+91,1,None,None,Not paid
+66,161,8,1,Paid
+47,167,None,None,Paid
+19,150,10,2,Not paid
+20,4,None,None,Paid
+7,180,7,5,Paid
+87,17,None,None,Not paid
+93,92,None,None,Not paid
+95,151,None,None,Paid
+46,158,None,None,Paid
+29,175,None,None,Not paid
+93,26,None,None,Not paid
+75,85,None,None,Not paid
+43,41,None,None,Paid
+58,121,8,4,Paid
+14,171,None,None,Paid
+99,23,None,None,Not paid
+12,95,None,None,Paid
+49,76,10,5,Paid
+82,23,None,None,Not paid
+84,109,None,None,Not paid
+29,194,None,None,Not paid
+60,145,5,4,Paid
+63,77,5,4,Paid
+80,76,None,None,Not paid
+75,178,None,None,Paid
+99,83,None,None,Paid
+76,24,None,None,Paid
+91,11,None,None,Paid
+93,181,None,None,Paid
+63,12,8,1,Paid
+62,59,None,None,Paid
+83,196,None,None,Not paid
+55,160,None,None,Not paid
+86,106,5,3,Not paid
+50,168,None,None,Paid
+97,51,None,None,Paid
+78,127,None,None,Not paid
+23,91,None,None,Paid
+90,156,None,None,Not paid
+36,5,None,None,Paid
+34,69,None,None,Not paid
+31,69,None,None,Paid
+14,53,None,None,Not paid
+59,88,None,None,Not paid
+73,179,None,None,Not paid
+89,186,None,None,Paid
+75,99,None,None,Paid
+67,13,None,None,Not paid
+96,145,6,5,Paid
+50,191,None,None,Not paid
+76,11,None,None,Paid
+97,76,None,None,Paid
+6,160,5,2,Paid
+60,38,5,1,Not paid
+52,109,None,None,Paid
+99,156,None,None,Paid
+38,89,None,None,Paid
+89,88,None,None,Paid
+58,59,10,5,Not paid
+21,51,7,3,Paid
+57,110,None,None,Paid
+2,90,None,None,Not paid
+6,42,10,5,Not paid
+46,63,None,None,Paid
+41,146,10,3,Paid
+41,47,6,5,Paid
+30,131,None,None,Not paid
+1,104,None,None,Not paid
+47,65,None,None,Paid
+13,103,None,None,Paid
+90,136,None,None,Paid
+70,5,None,None,Not paid
+40,103,None,None,Paid
+40,60,None,None,Paid
+47,81,None,None,Not paid
+92,198,None,None,Paid
+26,22,None,None,Not paid
+41,74,8,1,Paid
+41,197,9,2,Paid
+6,58,8,2,Paid
+39,104,None,None,Not paid
+84,26,None,None,Paid
+44,147,None,None,Not paid
+59,7,None,None,Paid
+89,65,None,None,Not paid
+45,101,None,None,Paid
+77,118,None,None,Paid
+66,78,7,4,Not paid
+80,113,None,None,Not paid
+99,53,None,None,Not paid
+17,110,None,None,Paid
+64,70,None,None,Paid
+87,192,None,None,Paid
+94,164,None,None,Not paid
+35,142,None,None,Not paid
+85,2,8,3,Not paid
+0,136,None,None,Paid
+16,179,None,None,Paid
+59,22,None,None,Paid
+0,127,None,None,Not paid
+59,83,None,None,Paid
+34,122,None,None,Paid
+14,20,None,None,Not paid
+23,196,None,None,Paid
+77,13,None,None,Paid
+99,84,None,None,Not paid
+49,176,9,4,Paid
+65,43,10,5,Not paid
+44,194,None,None,Paid
+38,184,None,None,Not paid
+10,115,None,None,Paid
+94,121,None,None,Not paid
+62,81,None,None,Paid
+43,26,None,None,Paid
+69,153,None,None,Paid
+20,124,None,None,Not paid
+38,168,None,None,Paid
+67,153,None,None,Not paid
+4,31,None,None,Not paid
+94,105,None,None,Paid
+20,166,None,None,Not paid
+38,173,None,None,Not paid
+79,57,None,None,Paid
+94,32,None,None,Not paid
+46,70,None,None,Not paid
+10,120,None,None,Paid
+8,140,10,4,Not paid
+99,46,None,None,Paid
+84,29,None,None,Paid
+38,70,None,None,Paid
+24,167,None,None,Not paid
+66,136,9,1,Paid
+89,187,None,None,Paid
+26,152,None,None,Not paid
+48,158,None,None,Paid
+91,84,None,None,Paid
+72,82,5,4,Paid
+76,72,None,None,Not paid
+20,54,None,None,Paid
+87,151,None,None,Paid
+71,10,None,None,Not paid
+77,62,None,None,Paid
+57,187,None,None,Paid
+67,35,None,None,Not paid
+72,162,10,5,Not paid
+18,78,None,None,Paid
+1,100,None,None,Paid
+38,108,None,None,Paid
+27,109,None,None,Paid
+44,99,None,None,Paid
+45,175,None,None,Paid
+62,10,None,None,Paid
+43,19,None,None,Not paid
+3,95,None,None,Not paid
+87,22,None,None,Paid
+13,104,None,None,Paid
+55,87,None,None,Paid
+69,83,None,None,Paid
+7,183,7,1,Not paid
+53,0,None,None,Not paid
+26,159,None,None,Paid
+60,175,9,5,Not paid
+66,183,9,5,Paid
+30,120,None,None,Not paid
+83,98,None,None,Paid
+9,187,None,None,Paid
+33,37,None,None,Paid
+9,194,None,None,Paid
+30,45,None,None,Paid
+39,29,None,None,Paid
+73,1,None,None,Not paid
+44,98,None,None,Not paid
+55,163,None,None,Paid
+26,76,None,None,Paid
+26,158,None,None,Paid
+50,107,None,None,Paid
+23,188,None,None,Paid
+24,30,None,None,Paid
+19,113,10,5,Paid
+49,183,8,4,Paid
+78,47,None,None,Paid
+3,150,None,None,Not paid
+28,17,None,None,Not paid
+94,107,None,None,Paid
+69,59,None,None,Paid
+76,67,None,None,Paid
+71,189,None,None,Paid
+41,127,6,3,Not paid
+27,3,None,None,Not paid
+62,28,None,None,Not paid
+59,86,None,None,Paid
+95,33,None,None,Not paid
+2,36,None,None,Paid
+85,91,5,2,Not paid
+34,169,None,None,Not paid
+46,73,None,None,Not paid
+64,58,None,None,Not paid
+36,1,None,None,Paid
+82,182,None,None,Not paid
+25,61,None,None,Paid
+85,184,9,2,Paid
+38,17,None,None,Not paid
+84,142,None,None,Not paid
+78,147,None,None,Paid
+46,165,None,None,Not paid
+13,50,None,None,Paid
+73,13,None,None,Not paid
+92,124,None,None,Not paid
+0,82,None,None,Not paid
+68,145,None,None,Paid
+60,76,7,2,Not paid
+63,158,6,5,Paid
+69,24,None,None,Paid
+71,154,None,None,Not paid
+64,67,None,None,Not paid
+87,75,None,None,Not paid
+26,101,None,None,Not paid
+72,109,10,4,Paid
+91,137,None,None,Not paid
+19,10,8,2,Paid
+96,131,8,5,Paid
+5,172,None,None,Not paid
+2,0,None,None,Not paid
+30,75,None,None,Not paid
+98,100,8,1,Not paid
+24,106,None,None,Not paid
+48,136,None,None,Paid
+0,144,None,None,Not paid
+25,7,None,None,Not paid
+16,191,None,None,Paid
+56,78,None,None,Paid
+99,61,None,None,Not paid
+6,28,7,4,Not paid
+36,143,None,None,Not paid
+48,61,None,None,Not paid
+72,58,10,1,Paid
+62,38,None,None,Paid
+91,165,None,None,Paid
+82,1,None,None,Paid
+40,104,None,None,Paid
+81,166,None,None,Not paid
+85,16,6,2,Paid
+65,115,7,4,Paid
+88,94,None,None,Not paid
+2,135,None,None,Paid
+15,7,None,None,Paid
+57,176,None,None,Paid
+15,75,None,None,Not paid
+19,13,8,3,Not paid
+92,79,None,None,Not paid
+80,118,None,None,Paid
+64,142,None,None,Paid
+46,91,None,None,Not paid
+52,66,None,None,Paid
+84,181,None,None,Not paid
+66,118,8,3,Paid
+84,132,None,None,Paid
+43,106,None,None,Not paid
+79,52,None,None,Paid
+79,120,None,None,Paid
+84,130,None,None,Not paid
+72,182,9,1,Not paid
+13,166,None,None,Not paid
+77,85,None,None,Paid
+46,151,None,None,Not paid
+18,167,None,None,Not paid
+43,4,None,None,Not paid
+23,130,None,None,Paid
+80,190,None,None,Paid
+59,113,None,None,Paid
+80,170,None,None,Not paid
+16,114,None,None,Not paid
+29,143,None,None,Paid
+2,172,None,None,Paid
+54,185,None,None,Not paid
+2,52,None,None,Paid
+31,110,None,None,Paid
+80,19,None,None,Paid
+85,45,7,3,Paid
+39,37,None,None,Paid
+51,19,None,None,Paid
+24,151,None,None,Paid
+33,134,None,None,Not paid
+35,7,None,None,Not paid
+83,45,None,None,Not paid
+13,63,None,None,Paid
+68,162,None,None,Not paid
+21,79,7,1,Paid
+27,159,None,None,Not paid
+84,102,None,None,Not paid
+72,89,10,2,Paid
+45,102,None,None,Paid
+40,18,None,None,Not paid
+10,178,None,None,Not paid
+54,103,None,None,Not paid
+13,68,None,None,Not paid
+66,171,9,3,Not paid
+24,57,None,None,Paid
+27,172,None,None,Paid
+93,199,None,None,Paid
+63,56,6,1,Paid
+3,119,None,None,Not paid
+62,19,None,None,Not paid
+28,7,None,None,Paid
+40,118,None,None,Paid
+76,22,None,None,Paid
+37,109,9,4,Paid
+54,186,None,None,Not paid
+29,190,None,None,Paid
+15,164,None,None,Not paid
+97,56,None,None,Not paid
+34,177,None,None,Paid
+56,22,None,None,Not paid
+12,7,None,None,Paid
+20,37,None,None,Paid
+71,135,None,None,Paid
+50,70,None,None,Paid
+69,89,None,None,Not paid
+96,3,8,5,Not paid
+86,186,6,2,Paid
+51,144,None,None,Paid
+75,3,None,None,Paid
+17,5,None,None,Paid
+65,74,9,5,Not paid
+61,128,None,None,Not paid
+32,34,None,None,Not paid
+84,125,None,None,Paid
+11,61,5,1,Not paid
+47,37,None,None,Paid
+62,49,None,None,Paid
+27,149,None,None,Paid
+3,105,None,None,Paid
+54,110,None,None,Paid
+57,135,None,None,Paid
+52,1,None,None,Not paid
+35,23,None,None,Not paid
+97,43,None,None,Paid
+72,10,10,2,Not paid
+49,145,8,4,Paid
+31,103,None,None,Not paid
+15,1,None,None,Not paid
+3,52,None,None,Not paid
+99,150,None,None,Paid
+71,199,None,None,Paid
+70,73,None,None,Paid
+15,2,None,None,Paid
+47,71,None,None,Not paid
+88,194,None,None,Not paid
+92,3,None,None,Paid
+49,28,9,3,Paid
+16,32,None,None,Not paid
+99,29,None,None,Paid
+64,4,None,None,Not paid
+78,28,None,None,Not paid
+79,155,None,None,Paid
+93,137,None,None,Paid
+13,153,None,None,Paid
+63,115,9,2,Paid
+11,35,10,4,Not paid
+25,146,None,None,Not paid
+51,53,None,None,Not paid
+80,115,None,None,Paid
+72,21,6,3,Paid
+20,163,None,None,Not paid
+65,146,8,3,Paid
+57,5,None,None,Paid
+93,87,None,None,Paid
+44,1,None,None,Not paid
+86,0,7,4,Paid
+27,102,None,None,Paid
+60,190,8,5,Not paid
+48,54,None,None,Not paid
+4,187,None,None,Paid
+95,178,None,None,Not paid
+26,104,None,None,Not paid
+86,80,6,4,Paid
+75,77,None,None,Not paid
+54,130,None,None,Not paid
+24,66,None,None,Paid
+41,195,10,1,Not paid
+21,125,7,3,Not paid
+1,125,None,None,Not paid
+23,193,None,None,Not paid
+47,43,None,None,Paid
+24,165,None,None,Not paid
+35,38,None,None,Not paid
+91,139,None,None,Not paid
+48,141,None,None,Not paid
+86,72,8,3,Not paid
+23,140,None,None,Not paid
+41,145,8,2,Not paid
+31,158,None,None,Not paid
+3,86,None,None,Paid
+97,34,None,None,Paid
+49,65,10,2,Not paid
+59,175,None,None,Not paid
+46,186,None,None,Not paid
+1,22,None,None,Not paid
+13,59,None,None,Not paid
+61,194,None,None,Paid
+52,191,None,None,Not paid
+40,92,None,None,Not paid
+89,30,None,None,Not paid
+35,49,None,None,Not paid
+98,128,7,3,Paid
+54,34,None,None,Not paid
+75,89,None,None,Paid
+98,5,6,4,Not paid
+57,164,None,None,Paid
+99,1,None,None,Not paid
+2,95,None,None,Not paid
+50,24,None,None,Not paid
+90,77,None,None,Paid
+20,168,None,None,Not paid
+31,100,None,None,Paid
+5,191,None,None,Not paid
+24,138,None,None,Not paid
+11,166,9,1,Not paid
+18,29,None,None,Paid
+85,88,10,2,Paid
+83,10,None,None,Not paid
+5,64,None,None,Not paid
+24,143,None,None,Not paid
+99,9,None,None,Paid
+67,73,None,None,Paid
+53,188,None,None,Paid
+13,94,None,None,Paid
+90,9,None,None,Paid
+15,103,None,None,Paid
+78,101,None,None,Paid
+59,171,None,None,Not paid
+35,114,None,None,Paid
+1,150,None,None,Paid
+52,84,None,None,Not paid
+71,72,None,None,Paid
+15,62,None,None,Not paid
+69,119,None,None,Not paid
+50,133,None,None,Paid
+5,57,None,None,Paid
+85,48,7,5,Not paid
+35,21,None,None,Not paid
+20,176,None,None,Paid
+70,143,None,None,Paid
+96,12,5,2,Paid
+16,34,None,None,Not paid
+62,175,None,None,Paid
+71,104,None,None,Not paid
+69,58,None,None,Paid
+78,75,None,None,Not paid
+22,126,None,None,Paid
+38,63,None,None,Paid
+32,195,None,None,Not paid
+15,13,None,None,Paid
+71,102,None,None,Paid
+32,183,None,None,Not paid
+68,79,None,None,Not paid
+57,18,None,None,Paid
+57,104,None,None,Not paid
+96,33,7,2,Paid
+26,197,None,None,Not paid
+92,156,None,None,Not paid
+68,61,None,None,Paid
+68,70,None,None,Paid
+66,80,9,2,Not paid
+75,103,None,None,Not paid
+83,126,None,None,Paid
+73,15,None,None,Not paid
+37,155,7,4,Paid
+24,8,None,None,Paid
+43,56,None,None,Paid
+81,33,None,None,Not paid
+30,162,None,None,Paid
+0,4,None,None,Not paid
+66,184,8,2,Not paid
+40,115,None,None,Paid
+98,79,9,1,Paid
+40,96,None,None,Not paid
+54,85,None,None,Not paid
+23,106,None,None,Not paid
+72,23,10,4,Not paid
+18,182,None,None,Paid
+92,172,None,None,Paid
+89,19,None,None,Paid
+79,44,None,None,Paid
+94,182,None,None,Not paid
+76,191,None,None,Not paid
+54,43,None,None,Paid
+44,3,None,None,Not paid
+19,191,6,2,Paid
+31,12,None,None,Not paid
+18,127,None,None,Paid
+79,184,None,None,Not paid
+44,47,None,None,Not paid
+76,143,None,None,Paid
+96,100,5,2,Not paid
+18,10,None,None,Paid
+33,129,None,None,Not paid
+21,117,8,5,Paid
+0,149,None,None,Not paid
+25,189,None,None,Not paid
+70,124,None,None,Paid
+95,12,None,None,Paid
+87,159,None,None,Not paid
+95,66,None,None,Not paid
+13,6,None,None,Paid
+7,170,8,2,Paid
+34,174,None,None,Paid
+82,58,None,None,Paid
+27,195,None,None,Paid
+23,137,None,None,Paid
+34,63,None,None,Not paid
+47,19,None,None,Paid
+75,32,None,None,Paid
+77,40,None,None,Not paid
