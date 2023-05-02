@@ -101,7 +101,7 @@ const mintNFT = async ({ title, description, metadataURI, price }) => {
 }
 
 const buyNFT = async ({ id, cost }) => {
-  // try {
+  try {
     cost = window.web3.utils.toWei(cost.toString(), 'ether')
     const contract = await getEtheriumContract()
     const buyer = getGlobalState('connectedAccount')
@@ -111,10 +111,10 @@ const buyNFT = async ({ id, cost }) => {
       .send({ from: buyer, value: cost })
 
     return true
-//   } catch (error) {
-//     reportError(error)
-//   }
-// }
+  } catch (error) {
+    reportError(error)
+  }
+}
 
 const updateNFT = async ({ id, cost }) => {
   try {
