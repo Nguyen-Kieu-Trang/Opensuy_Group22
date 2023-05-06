@@ -40,24 +40,7 @@ const CreateNFT = () => {
     setGlobalState('modal', 'scale-0')
     setGlobalState('loading', { show: true, msg: 'Uploading IPFS data...' })
 
-    try {
-      const created = await client.add(fileUrl)
-      const metadataURI = `https://ipfs.io/ipfs/${created.path}`
-      const nft = { title, price, description, metadataURI }
-      
-      setLoadingMsg('Intializing transaction...')
-      setFileUrl(metadataURI)
-      await mintNFT(nft)
-      
-      resetForm()
-      setAlert('Minting completed...', 'green')
-      window.location.reload()
-    } catch (error) {
-      console.log('Error uploading file: ', error)
-      setAlert('Minting failed...', 'red')
-      // console.log('IPFS data uploaded: ', created)
-    }
-  }
+    
 
   const changeImage = async (e) => {
     const reader = new FileReader()
