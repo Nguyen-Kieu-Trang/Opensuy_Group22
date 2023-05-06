@@ -55,7 +55,7 @@ const CreateNFT = () => {
     } catch (error) {
       console.log('Error uploading file: ', error)
       setAlert('Minting failed...', 'red')
-       console.log('IPFS data uploaded: ', created)
+       //console.log('IPFS data uploaded: ', created)
     }
   }
 
