@@ -22,22 +22,6 @@ body {
     radial-gradient(at 100% 0%, rgb(248, 241, 116) 0, transparent 50%);
 }
 
-.gradient-bg-artworks {
-  background-color: #0f0e13;
-  background-image: radial-gradient(at 50% 50%,
-      hsl(302deg 25% 18%) 0,
-      transparent 50%),
-    radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
-    radial-gradient(at 50% 50%, hsla(339, 39%, 25%, 1) 0, transparent 50%);
-}
-
-.gradient-bg-footer {
-  background-color: #151c25;
-  background-image: radial-gradient(at 0% 100%,
-      hsl(82, 60%, 80%) 0,
-      transparent 53%),
-    radial-gradient(at 50% 150%, rgb(155, 225, 146) 0, transparent 50%);
-}
 
 .text-gradient {
   background: -webkit-linear-gradient(#eee, #333);
