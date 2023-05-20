@@ -13,6 +13,7 @@ const UpdateNFT = () => {
   const [nft] = useGlobalState('nft')
   const [price, setPrice] = useState('')
 
+  console.log('nft', nft)
   
 
 export default UpdateNFT
