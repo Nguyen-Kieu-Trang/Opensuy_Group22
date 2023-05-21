@@ -1,4 +1,4 @@
-import timelessLogo from '../assets/nft.png'
+import opensuyLogo from '../assets/nft.png'
 import { connectWallet } from '../Blockchain.Services'
 import { useGlobalState, truncate } from '../store'
 
@@ -9,8 +9,8 @@ const Header = () => {
       <div className="md:flex-[0.5] flex-initial justify-center items-center">
         <img
           className="w-32 cursor-pointer"
-          src={timelessLogo}
-          alt="Timeless Logo"
+          src={opensuyLogo}
+          alt="opensuy Logo" 
         />
       </div>
 
