@@ -32,7 +32,8 @@ const ShowNFT = () => {
 
   return (
     <div
-      className={`
+      className={`fixed top-0 left-0 w-screen h-screen flex items-center
+          justify-center bg-black bg-opacity-50 transform
           transition-transform duration-300 ${showModal}`}
     >
       <div className="bg-[#151c25] shadow-xl shadow-[#e32970] rounded-xl w-11/12 md:w-2/5 h-7/12 p-6">
