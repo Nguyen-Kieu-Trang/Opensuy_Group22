@@ -60,7 +60,8 @@ const ShowNFT = () => {
           </div>
 
           <div className="flex flex-col justify-start rounded-xl mt-5">
-            
+            <h4 className="text-white font-semibold">{nft?.title}</h4>
+            <p className="text-gray-400 text-xs my-1">{nft?.description}</p>
 
             <div className="flex justify-between items-center mt-3 text-white">
               <div className="flex justify-start items-center">
@@ -95,7 +96,7 @@ const ShowNFT = () => {
                 focus:outline-none focus:ring mt-5"
                 onClick={onChangePrice}
               >
-                Update information
+                Change Price
               </button>
             ) : (
               <button
