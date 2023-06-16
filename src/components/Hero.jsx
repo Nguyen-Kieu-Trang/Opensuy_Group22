@@ -34,6 +34,20 @@ const Hero = () => {
           </button>
         </div>
         
+        <div className="w-3/4 flex justify-between items-center mt-5">
+          <div>
+            <p className="text-white font-bold">1231k</p>
+            <small className="text-gray-300">User</small>
+          </div>
+          <div>
+            <p className="text-white font-bold">152k</p>
+            <small className="text-gray-300">Artwork</small>
+          </div>
+          <div>
+            <p className="text-white font-bold">200k</p>
+            <small className="text-gray-300">Artist</small>
+          </div>
+        </div>
         
       </div>
 
