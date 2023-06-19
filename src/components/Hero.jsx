@@ -33,7 +33,6 @@ const Hero = () => {
             Create NFT
           </button>
         </div>
-        
         <div className="w-3/4 flex justify-between items-center mt-5">
           <div>
             <p className="text-white font-bold">1231k</p>
@@ -51,7 +50,7 @@ const Hero = () => {
         
       </div>
 
-      {/* <div
+      <div
         className="shadow-xl shadow-black md:w-2/5 w-full 
         mt-10 md:mt-0 rounded-md overflow-hidden bg-gray-800"
       >
@@ -75,7 +74,7 @@ const Hero = () => {
             <small className="text-pink-800 font-bold">@you</small>
           </div>
         </div>
-      </div> */}
+      </div>
     </div>
   )
 }
