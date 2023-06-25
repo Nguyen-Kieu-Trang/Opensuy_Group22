@@ -16,7 +16,7 @@ const Transactions = () => {
   useEffect(() => {
     setCollection(getCollection())
   }, [transactions, end])
-  console.log(transactions)
+ 
   return (
     <div className="bg-[#151c25]">
       <div className="w-4/5 py-10 mx-auto">
