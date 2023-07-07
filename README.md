@@ -2,12 +2,17 @@
 
 1. Clone out project via Github link:
 
+```
+git clone https://github.com/toanvuvv/NFT_Marketplace.git
+cd NFT_Marketplace && yarn install
+```
+
 1. Connect to IPFS
 - Create ipfs Infura project via link: https://www.infura.io/product/ipfs
 - Create “.evn” file in the home folder of Project
 - Enter your Own API key from Infuria
 
-```json
+```
 REACT_APP_INFURIA_PID=<INFURIA_API_KEY_HERE>
 REACT_APP_INFURIA_API=<INFURIA_API_KEY_SECRET_HERE>
 ```
@@ -16,14 +21,14 @@ REACT_APP_INFURIA_API=<INFURIA_API_KEY_SECRET_HERE>
 
 1.1 Install Truffle and Ganache
 
-```json
+```
 npm install -g truffle
 npm install ganache --global
 ```
 
 1.2 Run the Local Blockchain Network
 
-```json
+```
 ganache -d
 ```
 
@@ -42,15 +47,21 @@ Add the local blockchain network in MetaMask by entering the RPC URL and Chain I
 
 - Open new terminal tab
 
-```json
-truffle migrate --reset
-```
+``` 
+truffle migrate -- reset 
 
+
+```
+Truffle will discard the existing deployment status and re-deploy all contracts from the beginning. It ensures that all contracts are deployed again, even if they were previously deployed.
+```
+truffle migrate 
+```
+This command will initiate the migration process, and Truffle will deploy any new or modified contracts to the designated blockchain network.
 ### 3. Run web
 
 - Open new terminal tab
 
-```json
+```
 yarn start
 ```
 
